@@ -1,0 +1,3002 @@
+[
+    {
+        "question": "Air intake Flap tổ máy GT24/GT25 tự động đóng (OFF) khi:",
+        "options": {
+            "A": "Khi tốc độ turbine < 144 rpm và air intake flap not fault;",
+            "B": "Khi tốc độ turbine <240 rpm và air intake flap not fault;",
+            "C": "Câu A, B đúng.",
+            "D": "Câu A, B sai."
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Air intake Flap tổ máy GT24/GT25 tự động mở (ON) khi:",
+        "options": {
+            "A": "Khi tốc độ turbine > 155 rpm và air intake flap not fault;",
+            "B": "Bước 04 của tiến trình khởi động GT và air intake flap not fault;",
+            "C": "Câu A, B sai.",
+            "D": "Câu A, B đúng."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Ảnh hưởng của điện áp lưới điện thấp đến các thiết bị quay:",
+        "options": {
+            "A": "Động cơ phát nóng",
+            "B": "Ảnh hưởng tuổi thọ, hư hỏng cách điện của thiết bị do nhiệt độ cao",
+            "C": "Câu A, B sai.",
+            "D": "Câu A, B đúng."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Ảnh hưởng của tần số lưới điện thấp đến thiết bị quay, Turbine, Máy phát điện:",
+        "options": {
+            "A": "Nêm dầu gối trục bị phá vỡ gây phát nóng hư hỏng kim loại do ma sát, độ rung gối trục tăng cao, các động cơ phát nóng làm giảm tuổi thọ động cơ.",
+            "B": "Tăng lực ly tâm đẫn đến dễ hư hỏng cánh tuabin và máy nén gió.",
+            "C": "Gây quá nhiệt dẫn đến hư hỏng cách điện của thiết bị.",
+            "D": "Câu A, B, C đúng."
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Bảo vệ nào chỉ tác động cắt máy cắt cao áp (234/235):",
+        "options": {
+            "A": "Rơle tần số thấp cấp 1 tác động (f  ≤ 47.5 Hz).",
+            "B": "Rơle tần số cao cấp 1 tác động (f ≥ 51.5 Hz).",
+            "C": "Rơle tần số thấp cấp 2 tác động (f ≤ 47 Hz)",
+            "D": "Câu A, B đúng, C sai."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Bảo vệ nào chỉ tác động cắt máy cắt cao áp (không cắt kích từ và Trip ST26):",
+        "options": {
+            "A": "Bảo vệ tần số thấp cấp 2 (81.2) tác động (47.5 Hz).",
+            "B": "Bảo vệ tần số thấp cấp 3 (81.3) tác động (45 Hz).",
+            "C": "Bảo vệ mất kích từ (40) tác động.",
+            "D": "Câu A, B, C đúng."
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Bảo vệ vượt quá tốc độ của máy phát điện Diesel khẩn là:",
+        "options": {
+            "A": "> 110% tốc độ định mức ",
+            "B": "> 115% tốc độ định mức ",
+            "C": "> 120% tốc độ định mức ",
+            "D": "> 125% tốc độ định mức "
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Biện pháp tổ chức để đảm bảo an toàn khi làm việc ở thiết bị điện:",
+        "options": {
+            "A": "Khảo sát, lập biên bản hiện trường, lập phương án thi công và biện pháp an\ntoàn, Đăng ký công tác, Làm việc theo PCT hoặc LCT.",
+            "B": "Cho phép làm việc tại hiện trường, Giám sát an toàn trong thời gian làm việc.",
+            "C": "Nghỉ giải lao; nghỉ hết ngày làm việc vàbắt đầu ngày tiếp theo; thay đổi người khi làm việc; kết thúc công việc, trao trả nơi làm việc, khoá phiếu PCT; trách nhiệm của các đơn vị có liên quan khi thực hiện công việc",
+            "D": "Câu A, B, C đúng"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Bơm dầu chính dự phòng sẽ chạy (ON) khi:",
+        "options": {
+            "A": "Áp suất sau bơm dầu chính đang vận hành <Min (30bar).",
+            "B": "Mất Tín hiệu Feedback On bơm dầu chính đang vận hành .",
+            "C": "Câu A, B sai.",
+            "D": "Câu A, B đúng."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Bơm nhớt bôi trơn khẩn (MBV21AP021) sẽ chạy (ON) khi:",
+        "options": {
+            "A": "Áp suất nhớt bôi trơn đến bợ trục (MBV21CP032) <Min (1.0 bar).",
+            "B": "Van nhớt trở trục mở.",
+            "C": "Câu A, B đúng.",
+            "D": "Câu A, B sai."
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Bơm nhớt bôi trơn phụ (MBV21AP012) sẽ chạy (ON) khi:",
+        "options": {
+            "A": "Áp suất sau bơm nhớt bôi trơn chính (MBV21CP011) <Min (3.3 bar).",
+            "B": "Van nhớt trở trục mở.",
+            "C": "Bơm nhớt bôi trơn chính đang vận hành bị Trip do lỗi CB.",
+            "D": "Câu A, B, C đúng."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Bơm nước ngưng sẽ tự động ngừng khi:",
+        "options": {
+            "A": "CV cấp nước ngưng 26LCA30AA002 có feedback đóng;",
+            "B": "Van tái tuần hoàn 26LCA31AA002 có feedback đóng;",
+            "C": "Cả CV cấp nước ngưng 26LCA30AA002 và van tái tuần hoàn 26LCA31AA002 có feedback đóng trì hoãn 20s;",
+            "D": "CV cấp nước ngưng 26LCA30AA002 hoặc van tái tuần hoàn 26LCA31AA002 có feedback đóngtrì hoãn 20s;"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Theo Thông tư số 40/2014/TT-BCT, quy định quy trình điều độ Hệ thống điện quốc gia, Bx là cấp điều độ nào:",
+        "options": {
+            "A": "Phân phối tỉnh, thành phố trực thuộc trung ương.",
+            "B": "Phân phối Quận, huyện",
+            "C": "Câu A, B đúng.",
+            "D": "Câu A, B sai."
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Các giá trị báo động và bảo vệ của độ rung tuyệt đối gối trục GT24/GT25:",
+        "options": {
+            "A": "Alarm:9.4/Trip:14.7 mm/s",
+            "B": "Alarm:9.3/Trip:14.7 mm/s",
+            "C": "Alarm:9.4/Trip:13.7 mm/s.",
+            "D": "Alarm:9.3/Trip:13.7 mm/s"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Các giá trị báo động và bảo vệ của nhiệt độ gối trục GT24/GT25:",
+        "options": {
+            "A": "Alarm:95/Trip:120 độ C",
+            "B": "Alarm:100/Trip:120 độ C",
+            "C": "Alarm:100/Trip:130 độ C",
+            "D": "Alarm:105/Trip:125 độ C"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Bảo vệ áp suất cao khi có rò dầu từ các van cầu MBN21/22AA001 của GT24/GT25 :",
+        "options": {
+            "A": "Báo động cao và Trip GT khi áp suất ≥ 1.2 bar",
+            "B": "Báo động cao và Trip GT khi áp suất ≥ 1.4 bar",
+            "C": "Báo động cao và Trip GT khi áp suất ≥ 1.6bar",
+            "D": "Báo động cao và Trip GT khi áp suất ≥ 2,0 bar"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Các giá trị bảo vệ (Trip) bơm dầu chính GT24/GT25:",
+        "options": {
+            "A": "Áp suất trước bơm dầu chính <Min (1.5 bar).",
+            "B": "Áp suất sau bơm dầu chính <Min (30 bar).",
+            "C": "Câu A, B đúng.",
+            "D": "Câu A, B sai."
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Các quy định chung về an toàn thao tác thiết bị điện:",
+        "options": {
+            "A": "Trường hợp đặc biệt được phép đóng, cắt dao cách ly khi trời mưa, giông ở những đường dây không có điện và thay dây chì của máy biến áp, máy biến điện áp vào lúc khí hậu ẩm, ướt sau khi đã cắt dao cách ly cả hai phía cao áp và hạ áp của máy biến áp, máy biến điện áp.",
+            "B": "Nếu xảy ra tai nạn, sự cố hoặc có thể gây ra mất an toàn cho người và hư hỏng thiết bị thì nhân viên vận hành được phép cắt các máy cắt, dao cách ly mà không phải có lệnh thao tác hoặc phiếu thao tác, nhưng sau đó phải báo cáo cho nhân viên vận hành cấp trên, người phụ trách trực tiếp và truyền đạt lại cho những nhân viên có liên quan biết nội dung những việc đã làm, đồng thời phải ghi đầy đủ vào sổ nhật ký vận hành.",
+            "C": "Câu A, B đúng.",
+            "D": "Câu A, B sai."
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Các thông số thể hiện tổ máy GT vận hành an toàn và có hiệu quả kinh tế cao:",
+        "options": {
+            "A": " Suất hao nhiệt thấp",
+            "B": "Phần trăm điện tự dùng thấp",
+            "C": "Tỷ lệ EOH/OH thấp",
+            "D": "Câu A, B, C đúng."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Các tổ máy nhà máy điện Phú Mỹ 2.1MR đang áp dụng chế độ điều tần tự động nào:",
+        "options": {
+            "A": "Điều tần thứ cấp, tần số 50 ± 0.2 Hz.",
+            "B": "Điều tần cấp 2, tần số 50 ± 0.5 Hz.",
+            "C": "Không áp dụng điều tần tự động do dễ dẫn đến sự cố tổ máy.",
+            "D": "Chỉ điều tần khi có lệnh của điều độ A0 hoặc A2."
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Cách kiểm tra sơ bộ mẫu khí khi rơ le hơi tác động:",
+        "options": {
+            "A": "Màu vàng, không đốt cháy được: Gỗ bị cháy.",
+            "B": "Màu tro nhạt, mùi hôi, đốt cháy được: Giấy, Carton cách điện bị cháy.",
+            "C": "Màu đỏ, màu đen dễ cháy: Dầu bị cháy, phân huỷ.",
+            "D": "Câu A, B, C đúng."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Theo Quy trình An toàn điện, cắt điện để làm công việc được quy định:",
+        "options": {
+            "A": "Cắt điện từng phần để làm việc phải giao cho nhân viên sửa chữa  nắm vững sơ đồ và vị trí thực tế của thiết bị để ngăn ngừa khả năng nhầm lẫn, gây nguy hiểm cho đơn vị làm công tác.",
+            "B": "Cắt điện từng phần để làm việc phải giao cho nhân viên vận hành nắm vững sơ đồ và vị trí thực tế của thiết bị để ngăn ngừa khả năng nhầm lẫn, gây nguy hiểm cho đơn vị công tác. ",
+            "C": "Câu A, B đúng",
+            "D": "Câu A, B sai."
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Cắt điện để làm công việc phải thực hiện như thế nào cho đúng quy trình an toàn điện:",
+        "options": {
+            "A": "Phần thiết bị tiến hành công việc phải được nhìn thấy rõ đã cách ly khỏi các phần có điện từ mọi phía bằng cách cắt dao cách ly, tháo cầu chì, tháo đầu cáp, tháo dây dẫn ngoại trừ trạm GIS, tủ hợp bộ, thiết bị đóng cắt kiểu kín và thiết bị đóng cắt của lưới hạ áp.",
+            "B": "Cấm cắt điện để làm việc bằng máy cắt, dao phụ tải và dao cách ly có bộ truyền động tự động.",
+            "C": "Phải ngăn chặn được những nguồn điện cao, hạ áp qua các máy biến áp lực, máy biến áp đo lường, máy phát điện khác có điện ngược trở lại gây nguy hiểm cho người làm việc. ",
+            "D": "Câu A, B, C đúng."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Theo Quy trình an toàn điện, quy định khoảng cách an toàn điện khi không có rào chắn:",
+        "options": {
+            "A": "Điện áp từ 1kV ÷ 15kV: 0.7m",
+            "B": "Điện áp 220kV: 2.5m",
+            "C": "Điện áp 500kV: 4.5m",
+            "D": "Câu A, B, C đúng."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Chênh lệch lưu lượng hơi ra và nước cấp vào cho phép chuyển đổi điều khiển mực bao hơi HP từ 1 thành phần sang 3 thành phần:",
+        "options": {
+            "A": "< 6.0kg/s;",
+            "B": "< 1.5kg/s;",
+            "C": "Tùy thuộc vào chế độ khởi động lò;",
+            "D": "Câu B, C đúng."
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Cho phép mở máy cắt khi hai phía có điện theo phương án nào:",
+        "options": {
+            "A": "Điện áp thấp hơn điện áp định mức của máy cắt",
+            "B": "Dòng điện qua máy cắt nhỏ hơn dòng định mức của máy cắt",
+            "C": "Đã tính toán kiểm tra không bị quá điện áp phục hồi của máy cắt",
+            "D": "Câu A, B, C đúng."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Theo Thông tư số 44/2014/TT-BCT, quy định quy trình thao tác trong hệ thống điện quốc gia, cho phép thao tác trong điều kiện thời tiết xấu theo phương án nào:",
+        "options": {
+            "A": "Thực hiện thao tác ngoài trời khi có mưa tạo thành dòng chảy trên thiết bị điện",
+            "B": "Thực hiện các thao tác từ phòng điều khiển",
+            "C": "Thực hiện các thao tác từ phòng điều khiển và không cần thiết phải kiểm tra ngay trạng thái tại chỗ của thiết bị đóng cắt",
+            "D": "Thực hiện thao tác xa"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Chu kỳ thanh tra tổ máy GT24/25 :",
+        "options": {
+            "A": "A/A/B/C tương ứng 8000 EOH/16000 EOH/24000 EOH/32000 EOH;",
+            "B": "A/A/B/C tương ứng 8000 EOH/16000 EOH/24000 EOH/33000 EOH;",
+            "C": "A/B/A/C tương ứng 8000 EOH/16000 EOH/24000 EOH/33000 EOH;",
+            "D": "A/B/A/C tương ứng 8000 EOH/16000 EOH/24000 EOH/33000 EOH;"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Chế độ làm việc của hệ thống chữa cháy phun bọt (Foam) các bồn dầu",
+        "options": {
+            "A": "Tự động phun khi có 2 đầu dò phát hiện lửa tác động",
+            "B": "Tự động phun khi có 1 đầu dò khói và một đầu dò lửa tác động",
+            "C": "Tác động phun bằng tay",
+            "D": "Câu A, B, C đúng."
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Clo tồn trữ trong bình chứa dưới dạng:",
+        "options": {
+            "A": "Clo lỏng và Clo khí",
+            "B": "Clo khí",
+            "C": "Clo lỏng",
+            "D": "Câu A, B, C sai"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Cơ cấu đóng mở của Blowoff valve của GT24/25:",
+        "options": {
+            "A": "Động cơ DC ",
+            "B": "Bộ biến đổi điện thủy lực (EHC) điều chỉnh nhớt thủy lực để điều khiển đóng / mở Blowoff valve",
+            "C": "Bộ biến đổi điện thủy lực (EHC) điều chỉnh nhớt thủy lực để điều khiển gió và gió đi vào điều khiển đóng/mở blowoff valve.",
+            "D": "Câu A, B, C sai."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Công suất định mức của máy phát điện Diesel khẩn: ",
+        "options": {
+            "A": "650 KW",
+            "B": "700 KW",
+            "C": "750 KW",
+            "D": "751 KW"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Theo quy trình an toàn thủy cơ nhiệt hóa, Những trường hợp không được phép làm việc trên cao:",
+        "options": {
+            "A": "Người không đảm bảo sức khỏe theo quy định của cơ quan y tế, đang ốm đau hoặc đã sử dụng các chất kích thích, đồ uống có cồn trước khi làm việc;",
+            "B": "Giông bão có gió từ cấp 5 trở lên hay trời mưa to tạo thành dòng hoặc có giông sét.",
+            "C": "Câu A, B sai.",
+            "D": "Câu A, B đúng."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Theo Quy trình an toàn điện, quy định Dây đeo an toàn phải được thử định kỳ 6 tháng 1 lần như thế nào:",
+        "options": {
+            "A": "Trọng lượng thử đối với dây cũ là 225 kg, thời gian 5 phút",
+            "B": "Trọng lượng thử đối với dây mới là 300 kg, thời gian 5 phút",
+            "C": "Câu A, B đúng.",
+            "D": "Câu A, B sai.  "
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Theo Quy trình an toàn điện, quy định kỹ thuật của dây nối đất:",
+        "options": {
+            "A": "Dây nối đất là dây đồng hoặc hợp kim mềm, nhiều sợi, tiết diện phải chịu\nđược tác dụng lực điện động và nhiệt",
+            "B": "Dây nối đất ngắn mạch (chống đóng điện nhầm từ nguồn điện đến) phải chịu\nđược tác dụng điện động và nhiệt động khi có dòng ngắn mạch nhưng tiết diện không\nđược nhỏ hơn 16 mm2 đối với lưới điện cấp điện áp đến 35kV, 35 mm2 đối với lưới\nđiện cấp điện áp từ 110kV trở lên",
+            "C": "Dây nối đất chống điện áp cảm ứng phải chịu được dòng điện do điện áp cảm\nứng sinh ra, tiết diện không được nhỏ hơn 10 mm2",
+            "D": "Câu A, B, C đúng."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "DD lò 24/25 đóng khẩn trong trường hợp nào sau đây:",
+        "options": {
+            "A": "2oo3 điểm đo nhiệt độ hơi quá nhiệt hơi cao áp/trung áp > Max2 trì hoãn sau 5 phút.",
+            "B": "2oo3 điểm đo nhiệt độ hơi quá nhiệt hơi cao áp/trung áp >Max2 trì hoãn sau 10 phút.",
+            "C": "2oo3 điểm đo nhiệt độ hơi quá nhiệt hơi cao áp/trung áp >Max2 trì hoãn sau 20 phút.",
+            "D": "Câu A, C đúng."
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Theo quy trình an toàn điện, để đảm bảo an toàn điện thì mọi công việc khi tiến hành trên thiết bị và vật liệu điện, ở gần hoặc liên quan đến thiết bị điện và vật liệu điện đang mang điện đều phải:",
+        "options": {
+            "A": "Thực hiện theo phiếu công tác",
+            "B": "Thực hiện theo lệnh công tác",
+            "C": "Thực hiện theo phiếu công tác và lệnh công tác",
+            "D": "Thực hiện theo phiếu công tác hoặc lệnh công tác"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Để đảm bảo an toàn điện, cấm ra mệnh lệnh hoặc giao công việc cho những người:",
+        "options": {
+            "A": "Chưa được kiểm tra đạt yêu cầu Quy trình an toàn điện, chưa biết rõ những việc sẽ phải làm",
+            "B": "Chưa được huấn luyện, kiểm tra đạt yêu cầu Quy trình an toàn điện, chưa biết rõ những việc sẽ phải làm",
+            "C": "Chưa được huấn luyện, kiểm tra đạt yêu cầu Quy trình an toàn điện và các quy trình có liên quan, chưa biết rõ những việc sẽ phải làm",
+            "D": "Chưa được huấn luyện, kiểm tra đạt yêu cầu Quy trình an toàn điện và các quy trình có liên quan"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Để điều chỉnh điện áp tự dùng 6.6kV khi tổ máy GT đang kết lưới vận hành, áp dụng biện pháp nào đầu tiên:",
+        "options": {
+            "A": "Đổi nấc bộ OLTC của máy biến áp chính 4T / 5T.",
+            "B": "Thay đổi setpoint điện áp đầu cực của tổ máy GT.",
+            "C": "Đổi nấc MBA tự dùng 14T/15T.",
+            "D": "Câu A, B, C sai."
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Để điều chỉnh tăng điện áp tự dùng 6.6kV khi tổ máy GT đang tách lưới, ta có thể thực hiện:",
+        "options": {
+            "A": "Tăng nấc bộ OLTC của máy biến áp chính 4T / 5T.",
+            "B": "Giảm nấc bộ OLTC của máy biến áp chính 4T / 5T.",
+            "C": "Tăng setpoint điện áp đầu cực của tổ máy GT.",
+            "D": "Giảm setpoint điện áp đầu cực của tổ máy GT."
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Theo Thông tư quy định quy trình xử lý sự cố HTĐ quốc gia: Trách nhiệm khắc phục khiếm của trang thiết bị rơ le bảo vệ và tự động trong trường hợp tác động sai hoặc từ chối tác động thuộc",
+        "options": {
+            "A": "Đơn vị quản lý vận hành",
+            "B": "Cấp điều độ có quyền điều khiển",
+            "C": "Nhân viên vận hành",
+            "D": "Câu A, B đúng"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Trong hệ thống chữa cháy, Deluge valve phun ngập tác động mở khi:",
+        "options": {
+            "A": "Solenoid cho van có điện",
+            "B": "Van bypass solenoid mở ",
+            "C": "Mở bằng tay",
+            "D": "Câu A, B đúng"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Điện áp định mức của máy phát điện  Diesel khẩn:",
+        "options": {
+            "A": "380 V",
+            "B": "400 V",
+            "C": "405 V",
+            "D": "410 V"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Điện áp định mức hệ thống Ắc-quy cấp cho khởi động và điều khiển máy phát điện Diesel khẩn:",
+        "options": {
+            "A": "12 VDC",
+            "B": "24 VDC",
+            "C": "220 VDC",
+            "D": "6 VDC"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Điều kiện cho phép chuyển đổi setpoint mực bao hơi LP lò 24/25 từ khởi động sang mực vận hành:",
+        "options": {
+            "A": "Lưu lượng hơi LP >6.0kg/s;",
+            "B": "DD mất feedback đóng sau 02 phút;",
+            "C": "SOV cấp nước IP/LP có feedback mở hoặc SOV cấp nước IP/LP có lệnh mở.",
+            "D": "Câu A, B, C sai."
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Điều kiện cho phép vận hành hệ thống nâng công suất GT24/25:",
+        "options": {
+            "A": "Tổ máy TBK đang vận hành nhiên liệu gas ở tải nền.",
+            "B": "Tổ máy TBK đang vận hành nhiên liệu gas ở tải nền, Nhiệt độ gió vào >27 độ C.",
+            "C": "Tổ máy TBK đang vận hành nhiên liệu gas ở tải nền, Nhiệt độ gió vào >27 độ C, Tần số ổn định trong khoảng 49.5÷ 50.5 Hz, Chất lượng nước Demin đạt (độ dẫn điện < 0,1µs/cm)",
+            "D": "Tổ máy TBK đang vận hành nhiên liệu gas ở tải nền, Chất lượng nước Demin đạt (độ dẫn điện < 0,1µs/cm)."
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Điều kiện để GT24/GT25 chuyển nhiên liệu  gas sang dầu:\n",
+        "options": {
+            "A": " -\tCông suất 35MW < P < base load\n-\tGT đang vận hành chế độ differsion\n-\tCác van cầu buồng đốt không bị lỗi\n-\tHệ thống dầu nhiên liệu sẵng sàng",
+            "B": " -\tCông suất 45MW < P < base load\n-\tGT đang vận hành chế độ differsion\n-\tCác van cầu buồng đốt không bị lỗi\n-\tHệ thống dầu nhiên liệu sẵng sàng",
+            "C": " -\tCông suất 65MW < P < base load\n-\tGT đang vận hành chế độ differsion\n-\tCác van cầu buồng đốt không bị lỗi\n-\tHệ thống dầu nhiên liệu sẵng sàng",
+            "D": " -\tCông suất 85MW < P < base load\n-\tGT đang vận hành chế độ differsion\n-\tCác van cầu buồng đốt không bị lỗi\n-\tHệ thống dầu nhiên liệu sẵng sàng"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Điều kiện hoà điện trên hệ thống điện có cấp điện áp đến 220kV:",
+        "options": {
+            "A": "Góc lệch pha điện áp không quá 15 độ, chênh lệch tần số không quá 0,05 Hz, chênh lệch điện áp không quá 5%.",
+            "B": "Góc lệch pha điện áp không quá 15o, chênh lệch tần số không quá 0,10 Hz, chênh lệch điện áp không quá 10%.",
+            "C": "Góc lệch pha điện áp không quá 30o, chênh lệch tần số không quá 0,25 Hz, chênh lệch điện áp không quá 10%.",
+            "D": "Đồng tần, đồng áp, đồng pha."
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Điều kiện Release cho phép mở van nhớt trở trục tổ máy GT24/GT25:",
+        "options": {
+            "A": "Tốc độ turbine < 148 rpm và mực bồn nhớt không nhỏ hơn Min;",
+            "B": "Tốc độ turbine < 140 rpm;",
+            "C": "Khi tốc độ turbine > 148 rpm và mực bồn nhớt không nhỏ hơn Min;",
+            "D": "Câu A, B, C sai."
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Điều kiện thời tiết nào không được thực hiện thao tác ngoài trời tại vị trí đặt thiết bị điện:",
+        "options": {
+            "A": "Trời có mưa",
+            "B": "Sân trạm bị ngập",
+            "C": "Có gió mạnh",
+            "D": "Có sấm, chớp"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Điều kiện van phá chân không bình ngưng tự động mở:",
+        "options": {
+            "A": "Trường hợp ngừng máy, khi tốc độ nhỏ hơn 10%;",
+            "B": "FG các hệ thống Ejector, Bypass, FWT Temp Control OFF;",
+            "C": "Kết hợp câu A và B.",
+            "D": "Câu A, B sai."
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Đối với đường ống dẫn khí đốt:",
+        "options": {
+            "A": "Cho phép nối dây mass của máy hàn",
+            "B": "Chỉ cho phép nối các dây mass của máy hàn có công suất bé",
+            "C": "Chỉ được phép nối dây mass của máy hàn vào trong khoảng thời gian ngắn",
+            "D": "Tuyệt đối cấm nối dây mass của máy hàn vào"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Đơn vị quản lý vận hành có trách nhiệm gửi Báo cáo sự cố cho đơn vị quản lý cấp trên trong thời hạn bao nhiêu kể từ khi sự cố xảy ra:",
+        "options": {
+            "A": "1 ngày",
+            "B": "2 ngày",
+            "C": "3 ngày",
+            "D": "Sau khi khắc phục sự cố"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Đóng cắt thử máy cắt được thực hiện trong trường hợp nào dưới đây:",
+        "options": {
+            "A": "Các dao cách ly hai phía của máy cắt được cắt hoàn toàn và chỉ đóng dao tiếp địa hoặc tiếp địa di động ở một phía của máy cắt.",
+            "B": "Dao cách ly một phía của máy cắt đóng, dao tiếp địa của máy cắt đang cắt.",
+            "C": "Dao cách ly một phía của máy cắt đóng, dao tiếp địa của máy cắt về phía không điện đang mở.",
+            "D": "Đóng dao cách ly hai phía của máy cắt, dao tiếp địa của máy cắt hai phía đang đóng mở"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Dòng định mức máy cắt 29BRV10GS100 của Máy phát điện Diesel khẩn :",
+        "options": {
+            "A": "1600 A",
+            "B": "1700 A",
+            "C": "1800 A",
+            "D": "1900 A"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Dòng định mức máy cắt 29BRV10GS101 của Máy phát điện Diesel khẩn :",
+        "options": {
+            "A": "600 A",
+            "B": "630 A",
+            "C": "650 A",
+            "D": "660 A"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Giá trị bảo vệ của áp suất bình ngưng khi ST26 mang tải:",
+        "options": {
+            "A": "> 0.70 bara.",
+            "B": "> 0.35 bara.",
+            "C": "> 0.15 bara.",
+            "D": "Thay đổi tùy thuộc vào áp suất thoát TB hạ áp."
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Giá trị bảo vệ của mực nước sông tác động Trip bơm nước làm mát chính MCWP tổ máy ST26:",
+        "options": {
+            "A": "≤ -4.3m",
+            "B": "≤ -3,8m, thời gian trì hoãn 10s;",
+            "C": "≤ -4.5m",
+            "D": "≤ -3,5m"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Giá trị bảo vệ của ứng suất nhiệt tuabin ST26:",
+        "options": {
+            "A": "≥105% trì hoãn 15 phút, ≥110% trì hoãn 60s nếu HEATING và 0s nếu COOLING",
+            "B": "≥105% trì hoãn 15 phút, ≥110% trì hoãn 0s nếu HEATING và 60s nếu COOLING.",
+            "C": "≥105% trì hoãn 60s, ≥110% trì hoãn 0s nếu HEATING và 15 phút nếu COOLING.",
+            "D": "≥105% trì hoãn 60s, ≥110% trì hoãn 60s nếu HEATING và 15 phút nếu COOLING."
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Giá trị bảo vệ nhiệt độ gối trục phía không tải/có tải động cơ bơm nước cấp ST26:",
+        "options": {
+            "A": "Alarm T ≥ 80 độ C; Trip bơm T ≥ 90 độ C.",
+            "B": "Alarm T ≥ 85 độ C; Trip bơm T ≥ 95 độ C.",
+            "C": "Alarm T ≥ 90 độ C; Trip bơm T ≥ 100 độ C.",
+            "D": "Alarm T ≥ 95 độ C; Trip bơm T ≥ 105 độ C"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Giá trị bảo vệ xung động buồng đốt tổ máy GT24/25 phụ thuộc vào:",
+        "options": {
+            "A": "Chế độ Vận hành gas Giá trị ≥ Max4 (30 mbar); 47,5 Hz < tốc độ TB< 52 Hz",
+            "B": "Chế độ vận hành Diff hay Premix",
+            "C": "Chế độ Vận hành dầu Giá trị ≥ Max3 (20 mbar);  47,5 Hz < tốc độ TB< 52 Hz",
+            "D": "Câu A, C đúng, B sai."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Giá trị MAX3/ MIN3 của mực bao hơi HP Lò 24/25 :",
+        "options": {
+            "A": "+250/-485 mm",
+            "B": "+175/-485 mm",
+            "C": "+250/-815 mm",
+            "D": "+229/-864 mm"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Giá trị mực FWT làm Trip bơm nước cấp:",
+        "options": {
+            "A": "≤ 426 mm",
+            "B": "≤ 526 mm",
+            "C": "≤ 626 mm",
+            "D": "≤ 726 mm"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Giá trị mực Hotwell bảo vệ Trip ST:",
+        "options": {
+            "A": "≥ 1050 mm",
+            "B": "≥ 1150 mm",
+            "C": "≥ 1250 mm",
+            "D": "≥ 1350 mm"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Giá trị nhiệt độ hơi Bypass sau hệ thống phun nước giảm nhiệt độ tác động trip bypass:",
+        "options": {
+            "A": "≥ 80 độ C",
+            "B": "≥ 90 độ C",
+            "C": "≥ 100 độ C",
+            "D": "≥ 110 độ C"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Giá trị nhiệt độ hơi thoát tuabin cao áp (26MAA10CT007) bảo vệ trip ST26:",
+        "options": {
+            "A": "≥ 514 độ C",
+            "B": "≥ 420 độ C",
+            "C": "≥ 430 độ C",
+            "D": "≥ 380 độ C"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Giá trị sai biệt áp suất để báo động và bảo vệ Trip bơm nước làm mát kín GT24/GT25:",
+        "options": {
+            "A": "Alarm:1.2/Trip:0.8 (Kpa).",
+            "B": "Alarm:1.5/Trip:0.8 (Kpa).",
+            "C": "Alarm:1.2/Trip:0.6 (Kpa).",
+            "D": "Câu A, B, C sai."
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Giá trị sai biệt giữa command và feedback của các Control valve hơi chính HP/IP bảo vệ trip tuabin :",
+        "options": {
+            "A": "≥ 5%",
+            "B": "≥ 8%",
+            "C": "≥ 10%",
+            "D": "≥ 12%"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Giá trị setting bảo vệ  áp suất thoát thấp bơm  tiếp dầu  (Siemens) :",
+        "options": {
+            "A": "Khi áp suất < 2,8 bar",
+            "B": "Khi áp suất < 4,6 bar",
+            "C": "Khi áp suất < 6 bar",
+            "D": "Khi áp suất < 4 bar"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Thực hiện theo công văn số 329/GENCO3-KT-SX NĂM 2014, Khả năng Hút/Phát vô công các tổ máy GT24/GT25/ST26 là:",
+        "options": {
+            "A": "(- 40 MVAr đến +80 MVAr/- 40 MVAr đến +80 MVAr/- 40 MVAr đến +100 MVAr)",
+            "B": "(- 80 MVAr đến +80 MVAr/- 40 MVAr đến +80 MVAr/- 40 MVAr đến +100 MVAr)",
+            "C": "(- 40 MVAr đến +80 MVAr/- 80MVAr đến +80 MVAr/- 40 MVAr đến +100 MVAr)",
+            "D": "(- 40 MVAr đến +80 MVAr/- 40 MVAr đến +80MVAr/- 40 MVAr đến +120 MVAr)"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Theo Thông tư số 44/2014/TT-BCT, quy định quy trình thao tác trong hệ thống điện quốc gia, Hạn chế thực hiện thao tác vào thời điểm nào:",
+        "options": {
+            "A": "Giờ có nhu cầu sử dụng điện cao",
+            "B": "Chuẩn bị giao nhận ca",
+            "C": "Đang xử lý sự cố",
+            "D": "Câu A, B, C đúng."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Hệ thống Cathode protection được lắp đặt nhằm mục đích:",
+        "options": {
+            "A": "Bảo vệ chống ăn mòn bên ngoài đường ống",
+            "B": "Bảo vệ chống ăn mòn bên trong đường ống",
+            "C": "Bảo vệ chống ăn mòn cả bên ngoài và bên trong đường ống",
+            "D": "Dùng với chức năng khác"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Hệ thống điện tự dùng 400V ST26: Điều kiện cho phép đóng máy cắt liên lạc 28BMB00GS100:",
+        "options": {
+            "A": "MC 28BMA10GS100 đóng và MC 28BMB10GS100 mở.",
+            "B": "MC 25BFE00GS100 mở.",
+            "C": "Kết hợp câu A và B.",
+            "D": "Câu A, B sai."
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Khi bị rò rỉ ra ngoài Clo thường tích tụ ở:",
+        "options": {
+            "A": "Thường phân bố ở những chỗ thấp",
+            "B": "Không tích tụ vì Clo bay hơi rất nhanh",
+            "C": "Sẽ thoát lên cao",
+            "D": "Câu A, B, C sai."
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Khi có báo động rò rỉ Clo có nghĩa lượng Clo trong không khí đã đạt:",
+        "options": {
+            "A": "1 ppm",
+            "B": "3 ppm",
+            "C": "4 ppm",
+            "D": "0,5 ppm"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Khi có cháy tại  máy biến áp chính, có thể phun nước chữa cháy theo các chế độ sau:",
+        "options": {
+            "A": "Hệ thống phun sương sẽ tự động phun nước nếu có hai đầu dò phát hiện cháy tác động:",
+            "B": "VHV có thể  tác động cho hệ thống phun sương làm việc bằng cách nhấn nút Start trên hộp điều khiển tại chỗ nếu có cháy thật sự mà hệ thống tự động không làm việc",
+            "C": " VHV có thể mở van tắt van điện từ tại Deluge van để tác động hệ thống phun sương nếu có cháy thật sự mà hệ thống tự động không làm việc",
+            "D": "Câu A, B, C đúng."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Theo Quy trình an toàn thủy cơ nhiệt hóa, khi đang làm việc trên cao, cấm các hành vi sau: ",
+        "options": {
+            "A": "Sử dụng các chất kích thích, đồ uống có cồn, đùa nghịch; Đưa dụng cụ, vật liệu lên cao hoặc từ trên cao xuống bằng cách tung, ném, mang vác dụng cụ, vật liệu nặng lên cao cùng với người.",
+            "B": "Cho vào túi quần, áo các dụng cụ, vật liệu để đề phòng rơi xuống người khác; Không được nói chuyện riêng, làm việc riêng, làm những việc ngoài nhiệm vụ được phân công.",
+            "C": "Câu A, B đúng.",
+            "D": "Câu A, B sai."
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Khi Hệ thống điện bị rã lưới, nhà máy điện tách lưới giữ tự dùng thành công, việc chỉ huy điều khiển công suất phát và điện áp của tổ máy để cấp điện cho hệ thống tự dùng của nhà máy và phụ tải địa phương do ai chỉ huy:",
+        "options": {
+            "A": "Trưởng ca nhà máy điện tách lưới giữ tự dùng",
+            "B": "Điều độ viên quốc gia",
+            "C": "Điều độ viên miền ",
+            "D": "Điều độ viên phân phối"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Khi Hệ thống điện bị rã lưới, việc chỉ huy điều khiển tần số và điện áp nhà máy điện tách lưới phát độc lập nối với cấp điện áp 220kV, 110kV; chỉ huy khởi động đen và khôi phục HTĐ có cấp điện áp 220kV, 110kV do ai chỉ huy:",
+        "options": {
+            "A": "Trưởng ca nhà máy điện khởi động đen",
+            "B": "Điều độ viên quốc gia",
+            "C": "Điều độ viên miền ",
+            "D": "Điều độ viên phân phối"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Khi Hệ thống điện bị rã lưới, việc chỉ huy điều khiển tần số và điện áp nhà máy điện tách lưới phát độc lập nối với cấp điện áp 500kV; chỉ huy khởi động đen và khôi phục HTĐ có cấp điện áp 500kV do ai chỉ huy:",
+        "options": {
+            "A": "Trưởng ca nhà máy điện tách lưới phát độc lập",
+            "B": "Điều độ viên quốc gia",
+            "C": "Điều độ viên miền ",
+            "D": "Điều độ viên phân phối"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Khi Hệ thống điện bị rã lưới, việc chỉ huy khởi động các tổ máy của nhà máy điện khởi động đen để cấp điện cho hệ thống tự dùng của nhà máy do ai chỉ huy:",
+        "options": {
+            "A": "Điều độ viên quốc gia",
+            "B": "Điều độ viên miền có nhà máy khởi động đen nối vào lưới điện thuộc quyền điều khiển",
+            "C": "Trưởng ca nhà máy khởi động đen",
+            "D": "Điều độ viên lưới điện phân phối"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Theo quy trình an toàn thủy cơ nhiệt hóa, khi làm việc trên cao phải:",
+        "options": {
+            "A": "Để dụng cụ làm việc vào chỗ chắc chắn hoặc làm móc treo vào vị trí cố định, sao cho khi va đập mạnh không rơi xuống phía dưới.",
+            "B": "Khi đưa dụng cụ, vật liệu lên cao hoặc hạ xuống phải dùng dây trực tiếp hoặc qua puly để kéo lên, hạ xuống, người ở dưới phải giữ một đầu dây và không đứng gần sát vị trí làm việc tính theo phương thẳng đứng.",
+            "C": "Chỉ được mang theo người những dụng cụ nhẹ như kìm, tuốc-nơ-vít, cờ-lê, mỏ-lết, búa con,... , nhưng phải đựng trong bao chuyên dùng.",
+            "D": "Câu A, B, C đúng."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Khi làm việc trên cầu dao cách ly có bộ phận truyền động điều khiển từ xa cần áp dụng những biện pháp ngăn ngừa việc đóng điện nhầm lẫn:",
+        "options": {
+            "A": "Phải có PCT, phải mắc đủ số lượng dây tiếp đất và treo đủ các biển cấm cần thiết",
+            "B": "Phải có PTT, dăng dây khu vực công tác",
+            "C": "Câu A, B sai.",
+            "D": "Kết hợp câu A và B."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Trạng thái hoạt động của Hệ thống trở trục khi ngừng máy đối với GT24/25:",
+        "options": {
+            "A": "Van trở trục mở khi tốc độ TB xuống 140 rpm và duy trì tốc độ trở trục ở 100 rpm",
+            "B": "Van trở trục mở khi tốc độ TB xuống 120 rpm và duy trì tốc độ trở trục ở 100 rpm",
+            "C": "Van trở trục mở khi tốc độ TB xuống 130 rpm và duy trì tốc độ trở trục ở 100 rpm",
+            "D": "Van trở trục mở khi tốc độ TB xuống 100 pm và duy trì tốc độ trở trục ở 100 rpm"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Khi xảy ra bảo vệ tổ máy do tín hiệu Fire Protection Trip đối với tổ máy GT24/25:",
+        "options": {
+            "A": "Tất cả các bơm nhớt vẫn chạy",
+            "B": "Chỉ bơm khẩn chạy",
+            "C": "Chỉ bơm nhớt phụ chạy",
+            "D": "Chỉ bơm nhớt chính chạy"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Theo Quy trình điều tra sự cố số 736/QĐ-EVN: Không xác định là sự cố tổ máy đối với các trường hợp:",
+        "options": {
+            "A": "Các tổ máy phát nhiệt điện đã ngừng dự phòng thời gian quá 30 ngày, khởi\nđộng không thành công do Cấp điều độ có quyền điều khiển thông báo huy động\nmuộn hơn thời gian thỏa thuận",
+            "B": "Hư hỏng các thiết bị mới hoặc thiết bị sau đại tu đang trong giai đoạn chạy thử nghiệm\nthử, nghiệm thu gây ảnh hưởng đến vận hành tổ máy (thời gian chạy thử, nghiệm\nthu theo đăng ký của đơn vị và đã được phê duyệt)",
+            "C": "Vi phạm chế độ vận hành bình thường nhưng đã thông báo trước theo kế hoạch.\nhoạch",
+            "D": "Câu A, B, C đúng."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Theo Quy trình an toàn điện, kiểm tra không còn điện:",
+        "options": {
+            "A": "Bằng thiết bị thử điện chuyên dùng phù hợp với điện áp danh định của thiết bị cần thử như bút thử điện, còi thử điện; phải thử ở tất cả các pha và các phía vào, ra của thiết bị.",
+            "B": "Căn cứ tín hiệu đèn, rơ le, đồng hồ để xác nhận thiết bị không còn điện, nhưng nếu đèn, rơ le, đồng hồ báo tín hiệu có điện thì phải xem như thiết bị vẫn có điện.",
+            "C": "Phải kiểm tra thiết bị thử điện ở nơi có điện trước, sau đó mới thử ở nơi không còn điện. Nếu ở nơi làm việc không có điện để thử thì được thử ở nơi khác trước lúc thử ở nơi làm việc và phải bảo quản tốt thiết bị thử điện khi chuyên chở.",
+            "D": "Câu A, B, C đúng."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Lò 24/25 được xem là chế độ khởi động nóng (Hot start) khi:",
+        "options": {
+            "A": "Áp lực bao hơi cao áp < 2 bar, áp lực bao hơi trung áp < 15 bar;",
+            "B": "Áp lực bao hơi cao áp ≥ 2 bar, áp lực bao hơi trung áp ≥ 15 bar;",
+            "C": "Áp lực bao hơi cao áp ≥ 2 bar, áp lực bao hơi trung áp < 15 bar;",
+            "D": "Áp lực bao hơi cao áp ≥ 2 bar, áp lực bao hơi trung áp ≥ 15 bar và nhiệt độ khói thoát >140độC;"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Máy phát điện Diesel khẩn sẽ tự động ngừng theo đúng tiến trình làm nguội :",
+        "options": {
+            "A": "250 giây",
+            "B": "300 giây",
+            "C": "350 giây",
+            "D": "360 giây"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Một trong những điều kiện cho phép DD24/25 mở lên vị trí (Position)1:",
+        "options": {
+            "A": "Các van xả đáy (drain valve) mở xả được 5 phút và đóng lại; áp suất bao hơi HP ≥ 9.0 bar;",
+            "B": "Các van xả đáy (drain valve) mở xả được 5 phút và đóng lại; mực các bao hơi đạt mực khởi động;",
+            "C": "Các van xả đáy (drain valve) mở xả được 5 phút và đóng lại; lưu lượng hơi ra HP ≥ 6.0 kg/s;",
+            "D": "Các van xả đáy (drain valve) mở xả được 5 phút và đóng lại; SOV Header valve HP có feedback mở;"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Trong đặc tuyến dung lượng máy phát (đặc tuyến P-Q):",
+        "options": {
+            "A": "Khi điểm làm việc nằm ngoài giới hạn về phía nhận công suất vô công của đặc tuyến thì bảo vệ sẽ tác động  Trip máy phát do mất kích từ tác động.",
+            "B": "Khi điểm làm việc nằm ngoài giới hạn phía phát vô công của đặc tuyến thì nhiệt độ cuộn dây Stator máy phát điện sẽ tăng cao quá định mức cho phép.",
+            "C": "Câu A, B đúng.",
+            "D": "Câu A, B sai."
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Mực nước sông bảo vệ Trip bơm nước làm mát chính MCWP ST26 được setting giá trị với delay time 5s :",
+        "options": {
+            "A": "-4,0 mHT",
+            "B": "-4,2 mHT",
+            "C": "-4,3 mHT",
+            "D": "-5,0 mHT"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Theo Quy trình an toàn điện, quy định Người cảnh giới (CG):",
+        "options": {
+            "A": "Là người được chỉ định và thực hiện việc theo dõi, cảnh báo an toàn liên quan đến nơi làm việc đối với cộng đồng.",
+            "B": "Là người được thực hiện theo dõi an toàn liên quan đến nơi làm việc đối nhóm công tác.",
+            "C": "Là người được chỉ định và thực hiện việc t cảnh báo an toàn điện  đối với cộng đồng.",
+            "D": "Là người  thực hiện việc  giám sát  an toàn của nhóm công tác liên quan đến nơi làm việc ."
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Theo Quy trình an toàn điện, quy định Người giám sát an toàn (GSAT): ",
+        "options": {
+            "A": "Là người được giao nhiệm vụ hỗ trợ Người chỉ huy trực tiếp giám an toàn Đơn vị công tác trong thời gian công tác.",
+            "B": "Là người có kiến thức về an toàn điện, được huấn luyện, chỉ định và thực hiện việc giám sát an toàn điện cho đơn vị công tác.",
+            "C": "Là người trực tiếp giám an toàn Đơn vị công tác .",
+            "D": "Là người  trực tiếp giám an toàn Đơn vị công tác trong thời gian công tác."
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Người thao tác phải thực hiện theo phương án nào trong trường hợp thấy có điều không hợp lý hoặc không rõ ràng trong phiếu thao tác: ",
+        "options": {
+            "A": "Đề nghị  người ra lệnh thao tác hoặc người duyệt phiếu giải thích và chỉ được thực hiện thao tác khi đã hiểu rõ các bước thao tác",
+            "B": "Hỏi ý kiến Người ra lệnh",
+            "C": "Hỏi ý kiến Người duyệt phiếu",
+            "D": "Viết lại phiếu thao tác khác"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Nguyên lý bảo vệ độ rung tuyệt đối của một gối trục GT24/25:",
+        "options": {
+            "A": "02 điểm > Max2;",
+            "B": "01 điểm > Max2,",
+            "C": "Câu A, B sai.",
+            "D": "Câu A, B đúng."
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Nguyên lý bảo vệ mất lửa (Flame off) GT24/25:",
+        "options": {
+            "A": "02 mắt thần trong cùng một buồng đốt không thấy lửa;",
+            "B": "1oo2 mắt thần trong cùng một buồng đốt không thấy lửa;",
+            "C": "02 mắt thần bất kỳ không thấy lửa;",
+            "D": "Câu A, B, C sai."
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Nguyên lý tác động bảo vệ OFF SGC ( Shut down) do nhiệt độ khí thoát ATK kênh A tổ máy GT24/25:",
+        "options": {
+            "A": "03 điểm Fault hoặc N_COIN không phân biệt nhóm.",
+            "B": "02 điểm Fault hoặc N_COIN cùng một nhóm.",
+            "C": "Câu A, B sai.",
+            "D": "Câu A, B đúng."
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Nguyên lý bảo vệ nhiệt độ khí thoát ATK kênh B tổ máy GT24/25:",
+        "options": {
+            "A": "2oo3 điểm trong cùng một nhóm > Max2 ",
+            "B": "01 điểm >Max2 và 01 điểm fault cùng nhóm.",
+            "C": "03 điểm fault cùng nhóm.",
+            "D": "Câu A, B, C đúng."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Nguyên lý bảo vệ surge Protection:",
+        "options": {
+            "A": "Khi tốc độ turbine > 2520 rpm và chênh áp đường gió vào MNG (MBA11CP001) < Min (30mbar).",
+            "B": "Khi tốc độ turbine < 2520 rpm và chênh áp đường gió vào MNG (MBA11CP001) > Min (30mbar).",
+            "C": "Khi tốc độ turbine > 2520 rpm và chênh áp đường gió vào MNG (MBA11CP001) > Min (40mbar).",
+            "D": "Khi tốc độ turbine < 2520 rpm và chênh áp đường gió vào MNG (MBA11CP001) < Min (40mbar)."
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Nguyên lý bảo vệ xung động buồng đốt:",
+        "options": {
+            "A": "Hum monitor sẽ tác động khi 2850 rpm <tốc độ turbine <3120 rpm và giá trị xung động buồng đốt trái/phải >Max 3 (20mbar) (delay 2 giây) khi vận hành nhiên liệu dầu.",
+            "B": "Hum monitor sẽ tác động khi 2850 rpm <tốc độ turbine <3120 rpm và giá trị xung động buồng đốt trái/phải (MBM11/21CP102) > Max 4 (30mbar) (delay 3 giây) khi vận hành nhiên liệu gas.",
+            "C": "Hum monitor sẽ tác động khi giá trị xung động buồng đốt trái/phải (MBM11/21CP102) > Max 4 (30mbar) (delay 3 giây) khi vận hành nhiên liệu gas.",
+            "D": "Câu A, B đúng."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Nguyên nhân có thể khiến tổ máy chạy biệt lập (Island):",
+        "options": {
+            "A": "Hư hỏng MC cao áp (do lỗi tại MC bị bật (234, 235) hoặc do lỗi của MC khác ngoài trạm dẫn đến bảo vệ bật MC 234 hoặc 235).",
+            "B": "Sự cố trên lưới 220 kV (sét đánh, chạm đất thanh cái, đường dây..).",
+            "C": "Rơle tần số thấp tác động (81.2) (f £ 47.5 Hz).",
+            "D": "Câu A, B, C đúng."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Có bao nhiêu điểm đo nhiệt độ ATK kênh A  GT24/GT25 báo Fault hoặc N.COIN thì tổ máy sẽ Shut down:",
+        "options": {
+            "A": "≥ 2 điểm",
+            "B": "≥ 3 điểm",
+            "C": "≥ 4 điểm",
+            "D": "≥ 5 điểm"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Nguyên nhân khiến điện áp lưới điện cao:",
+        "options": {
+            "A": "Sự cố lưới điện.",
+            "B": "Công suất vô công trên lưới điện cao.",
+            "C": "Đường dây tải điện tự sinh ra công suất vô công.",
+            "D": "Câu A, B, C đúng."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Nguyên nhân khiến tần số lưới điện cao:",
+        "options": {
+            "A": "Mất phụ tải đột ngột, sơ đồ kết nối dây không hợp lý",
+            "B": "Tần số của các tổ máy lớn kết nối lên lưới tăng cao do bất thường của tổ máy.",
+            "C": "Câu A, B đúng.",
+            "D": "Câu A, B sai."
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Theo Quy trình điều tra sự cố số 736 của EVN: Nguyên tắc xác định là sự cố hoặc bất thường trong các trường hợp:",
+        "options": {
+            "A": "Xác định là sự cố hoặc bất thường được xét đối với thiết bị, tổ máy đang vận hành",
+            "B": "Thiết bị, tổ máy đang dự phòng nhưng huy động không được",
+            "C": "Thiết bị, tổ máy tách ra khỏi vận hành để sửa chữa nhưng đưa vào muộn so với kế hoạch, dẫn đến ngừng, giảm mức cung cấp điện cho khách hàng mà không có lý do khách quan cũng xét là sự cố",
+            "D": "Câu A, B, C đúng."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Theo Thông tư số 44/2014/TT-BCT, quy định quy trình thao tác trong hệ thống điện quốc gia: Quy định cho phép không cần lập phiếu thao tác nhưng phải ghi chép đầy đủ vào NKVH  trong trường hợp nào:",
+        "options": {
+            "A": "Thao tác đơn giản có số bước thao tác không quá 03 bước và được thực hiện tại các cấp điều độ, Trung tâm điều khiển hoặc thao tác bằng điều khiển từ xa.",
+            "B": "Mọi thao tác đều phải được lập phiếu thao tác và phê duyệt trước khi tiến hành thao tác không loại trừ trường hợp nào.",
+            "C": "Thao tác đơn giản có số bước thao tác không quá 05 bước và được thực hiện bằng điều khiển từ xa",
+            "D": "Thao tác đơn giản có số bước thao tác không quá 04 bước và được thực hiện tại các cấp điều độ, Trung tâm điều khiển hoặc thao tác bằng điều khiển từ xa."
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Theo quy trình an toàn điện, những biện pháp kỹ thuật chuẩn bị nơi làm việc:",
+        "options": {
+            "A": "Cắt điện và thực hiện các biện pháp ngăn chặn có điện trở lại nơi làm việc",
+            "B": "Kiểm tra không còn điện và Đặt nối đất",
+            "C": "Treo biển báo, tín hiệu. Đặt rào chắn, căng dây (nếu cần thiết)",
+            "D": "Câu A, B, C đúng"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Những trường hợp phải cử người giám sát an toàn điện riêng cho đơn vị công tác bao gồm:",
+        "options": {
+            "A": "Đơn vị công tác làm các công việc (như: nề, mộc, cơ khí,…) ở nhà máy điện, trạm điện không có chuyên môn về điện.",
+            "B": "Đơn vị công tác làm các công việc căng, kéo dây, lấy độ võng đường dây giao chéo ở phía dưới hoặc gần đường dây đang vận hành.",
+            "C": "Câu A, B đúng.",
+            "D": "Câu A, B sai."
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Nội dung nào không đúng về MBA chính 4T/5T:",
+        "options": {
+            "A": "Công suất định mức: (ONAN / ONAF / OFAF): 105 / 155 / 175 MVA.",
+            "B": "Dạng điều chỉnh điện áp: Đổi nấc điện áp dưới tải (OLTC) với 19 nấc điều chỉnh, mỗi nấc 1,25 % (± 9 x 1,25%).",
+            "C": "Trung tính máy biến áp nối đất trực tiếp cuộn dây hạ áp",
+            "D": "Trung tính máy biến áp nối đất trực tiếp (trung tính cuộn dây cao áp)."
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Phải kiểm tra trạng thái máy cắt theo chỉ thị trạng thái tại chỗ khi nào:",
+        "options": {
+            "A": "Ngay sau khi thao tác máy cắt",
+            "B": "Trước khi thao tác di chuyển máy cắt hợp bộ",
+            "C": "Trước khi thao tác dao cách ly hai phía của máy cắt",
+            "D": "Thao tác xa máy cắt"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Phải kiểm tra trạng thái tại chỗ dao cách ly khi nào:",
+        "options": {
+            "A": "Ngay sau khi kết thúc thao tác",
+            "B": "Trước khi thao tác dao tiếp địa",
+            "C": "Trước khi thao tác máy cắt",
+            "D": "Sau khi thực hiện thao tác xa"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Phải thổi sạch không khí trước khi nạp lại Gas bằng khí:",
+        "options": {
+            "A": "Khí mêtan (CH4)",
+            "B": "Bằng gas",
+            "C": "Khí nitơ (N2)",
+            "D": "Không quy định"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Theo Quy trình điều tra sự cố số 2383/QĐ-Genco3: Phân loại cấp sự cố dựa vào mức độ hư hỏng thiết bị, thời gian khắc phục và hậu quả gây ra có:",
+        "options": {
+            "A": "3 cấp: Sự cố cấp 1, sự cố cấp 2, sự cố cấp 3",
+            "B": "4 cấp: Sự cố cấp 1, sự cố cấp 2, sự cố cấp 3, sự cố cấp 4.",
+            "C": "5 cấp: Sự cố cấp 1, sự cố cấp 2, sự cố cấp 3, sự cố cấp 4, sự cố cấp 5",
+            "D": "2 cấp: Sự cố cấp 1, sự cố cấp 2."
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Theo Quy trình an toàn điện, các chức danh thực hiện Phiếu công tác gồm có:",
+        "options": {
+            "A": "Người cấp PCT; Người cho phép; Người giám sát an toàn điện; Người lãnh đạo công việc.",
+            "B": "Người cấp PCT; Người cho phép; Người giám sát an toàn điện; Người lãnh đạo công việc; Người cảnh giới; Người chỉ huy trực tiếp; Nhân viên đơn vị công tác.",
+            "C": "Người cấp PCT; Người cho phép; Người giám sát an toàn điện; Người chỉ huy trực tiếp; Nhân viên đơn vị công tác.",
+            "D": "Người Lãnh đạo công việc, Người cấp PCT; Người cho phép;Người chỉ huy trực tiếp; Nhân viên đơn vị công tác."
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Theo Thông tư số 44/2014/TT-BCT, quy định quy trình thao tác trong hệ thống điện quốc gia, Phiếu thao tác phải được lưu hồ sơ kể cả khi hết hạn trong trường hợp nào:",
+        "options": {
+            "A": "Thao tác có xảy ra sự cố hoặc tai nạn",
+            "B": "Thao tác đóng điện công trình mới",
+            "C": "Thao tác xử lý sự cố",
+            "D": "Không quy định"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Trường hợp nào không đúng theo quy định trình tự thao tác dao cách ly hai phía máy cắt:",
+        "options": {
+            "A": "Mở dao cách ly phía không có điện áp trước",
+            "B": "Đóng dao cách ly phía có điện áp trước",
+            "C": "Mở dao cách ly phía nếu có tải không gây sự cố lớn trước",
+            "D": "Đóng dao cách ly phía nếu có tải không gây sự cố lớn trước"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Theo Thông tư số 44/2014/TT-BCT, quy định quy trình thao tác trong hệ thống điện quốc gia: Phương án nào quy định đúng cho phép nhà máy điện tạm ngừng thao tác :",
+        "options": {
+            "A": "Thời gian thao tác kéo dài liên tục quá 04 giờ đối với người thao tác trực tiếp tại trạm điện hoặc nhà máy điện. Thời gian ngừng thao tác không được quá 1 giờ.",
+            "B": "Thao tác phải thực hiện ngoài trời trong điều kiện thời tiết xấu",
+            "C": "Đang thao tác thì xảy ra sự cố hoặc có cảnh báo hiện tượng bất thường",
+            "D": "Câu A, B, C đúng."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Quy định đúng về bậc an toàn của người giám sát, người thao tác tại thiết bị điện cao áp:",
+        "options": {
+            "A": "Người thao tác phải có bậc an toàn từ bậc 02 trở lên, người giám sát phải có bậc an toàn từ bậc 03 trở lên",
+            "B": "Người thao tác phải có bậc an toàn từ bậc 03 trở lên, người giám sát phải có bậc an toàn từ bậc 04 trở lên",
+            "C": "Người thao tác phải có bậc an toàn từ bậc 04 trở lên, người giám sát phải có bậc an toàn từ bậc 05 trở lên",
+            "D": "Không quy định"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Quy định đúng, đủ về việc viết và duyệt phiếu thao tác đột xuất tại nhà máy điện:",
+        "options": {
+            "A": "Người viết phiếu là nhân viên vận hành thiết bị điện, người duyệt phiếu là Giám đốc, Phó giám đốc nhà máy điện.",
+            "B": "Người viết phiếu là nhân viên vận hành thiết bị điện, người duyệt phiếu là Quản đốc, Phó quản đốc phân xưởng vận hành nhà máy điện.",
+            "C": "Người viết phiếu là nhân viên vận hành thiết bị điện, người duyệt phiếu là Quản đốc, Phó quản đốc phân xưởng vận hành nhà máy điện, Trưởng ca, Trưởng kíp.",
+            "D": "Người viết phiếu là nhân viên vận hành thiết bị điện, người duyệt phiếu là Giám đốc, Phó giám đốc nhà máy; Quản đốc, Phó quản đốc phân xưởng vận hành nhà máy điện; Trưởng ca, Trưởng kíp."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Quy định đúng, đủ về việc viết và duyệt phiếu thao tác theo kế hoạch:",
+        "options": {
+            "A": "Người viết phiếu là nhân viên vận hành, người duyệt phiếu là Giám đốc, Phó giám đốc nhà máy; Quản đốc, Phó quản đốc phân xưởng vận hành.",
+            "B": "Người viết phiếu là nhân viên vận hành, người duyệt phiếu là Giám đốc, Phó giám đốc nhà máy; Quản đốc, Phó quản đốc phân xưởng vận hành nhà máy điện hoặc người được ủy quyền.",
+            "C": "Người viết phiếu là nhân viên vận hành hoặc nhân viên được giao nhiệm vụ viết phiếu thao tác, người duyệt phiếu là Giám đốc, Phó giám đốc nhà máy; Quản đốc, Phó quản đốc phân xưởng vận hành nhà máy điện hoặc người được ủy quyền.",
+            "D": "Người viết phiếu là nhân viên vận hành hoặc nhân viên được giao nhiệm vụ viết phiếu thao tác, người duyệt phiếu là Giám đốc, Phó giám đốc nhà máy; Quản đốc, Phó quản đốc phân xưởng vận hành."
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Theo Thông tư số 44/2014/TT-BCT, quy định quy trình thao tác trong hệ thống điện quốc gia: Quy định ghi số phiếu thao tác đột xuất:",
+        "options": {
+            "A": "Số thứ tự phiếu thao tác đột xuất trong năm / năm phát hành phiếu / ĐX / Viết tắt tên đơn vị cấp phiếu.",
+            "B": "Số thứ tự phiếu thao tác đột xuất trong tháng / tháng phát hành phiếu / KH / tên viết tắt của nhà máy",
+            "C": "KH/ số thứ tự phiếu thao tác đột xuất trong năm / năm phát hành phiếu  / tên viết tắt của công ty",
+            "D": "Số thứ tự phiếu thao tác đột xuất trong năm / năm phát hành phiếu / KH / tên viết tắt của đơn vị quản lý vận hành"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Theo Quy trình an toàn điện, cho phép kiêm nhiệm các chức danh khi thực hiện Phiếu công tác:",
+        "options": {
+            "A": "Người cấp phiếu kiêm Người chỉ huy trực tiếp nếu Đơn vị QLVH và Đơn vị công tác là một hoặc Người cấp phiếu kiêm Người giám sát an toàn điện, Người lãnh đạo công việc hoặc Người cấp phiếu kiêm Người cho phép ( không cho phép Người cấp phiếu kiêm Người CHTT). Người cho phép kiêm Người giám sát ATĐ. ",
+            "B": "Người cho phép kiêm nhiệm thực hiện một số công việc của nhân viên đơn vị công tác nếu Đơn vị QLVH và Đơn vị công tác là một, không cho phép Người cấp phiếu kiêm Người cho phép, Người cấp phiếu kiêm Người chỉ huy trực tiếp.",
+            "C": "Câu A, B đúng.",
+            "D": "Câu A, B sai."
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Theo Thông tư số 44/2014/TT-BCT, quy định quy trình thao tác trong hệ thống điện quốc gia, Quy định về soạn thảo phiếu thao tác bằng máy vi tính:",
+        "options": {
+            "A": "Phiếu thao tác được in trên khổ giấy A4, kích thước và phông chữ theo quy định về soạn thảo văn bản",
+            "B": "Phiếu thao tác được in trên khổ giấy A4, kích thước và phông chữ do đơn vị quy định về soạn thảo văn bản",
+            "C": "Phiếu thao tác được in trên khổ giấy A4, kích thước và phông chữ do người soạn thảo chọn",
+            "D": "Phiếu thao tác được in trên khổ giấy A4."
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Theo Thông tư số 44/2014/TT-BCT, quy định quy trình thao tác trong hệ thống điện quốc gia, Quy định về viết phiếu thao tác bằng tay:",
+        "options": {
+            "A": "Phiếu thao tác được viết trên khổ giấy A4, kích thước và phông chữ theo quy định",
+            "B": "Phiếu thao tác được viết trên khổ giấy A4, kích thước và phông chữ do đơn vị quy định",
+            "C": "Phiếu thao tác được viết trên khổ giấy A4, kích thước và phông chữ do người viết quy định",
+            "D": "Không quy định"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Quy trình an toàn thủy, cơ, nhiệt, hóa trong Tập đoàn Điện lực Quốc gia Việt Nam có hiệu lực khi nào:",
+        "options": {
+            "A": "2020-01-01 00:00:00",
+            "B": "01/9/2021",
+            "C": "2021-01-04 00:00:00",
+            "D": "01/10/2021"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Sau khi thao tác máy cắt, nếu sau đó có thao tác tại chỗ dao cách ly hai phía của máy cắt, nhân viên vận hành phải:",
+        "options": {
+            "A": "Kiểm tra chỉ thị tại chỗ trạng thái của máy cắt, khoá điều khiển của máy cắt",
+            "B": "Kiểm tra chỉ thị trạng thái của máy cắt thông qua tín hiệu điều khiển",
+            "C": "Kiểm tra chỉ thị tại chỗ trạng thái của máy cắt.",
+            "D": "Kiểm tra thông số vận hành của máy cắt."
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Theo Quy trình điều tra sự cố số 468/QĐ-EVN, sự cố chủ quan là:",
+        "options": {
+            "A": "Do nhân viên vận hành gây ra do không thực hiện đúng các quy trình, quy\nđịnh.",
+            "B": "Do nhân viên sửa chữa và thí nghiệm gây ra",
+            "C": "Do khiếm khuyết, bất thường của hệ thống, thiết bị hoạt động không ổn\nđịnh theo thiết kế",
+            "D": "Câu A, B, C đúng."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Theo Quy trình điều tra sự cố số 468/QĐ-EVN, sự cố khách quan là:",
+        "options": {
+            "A": "Do thiên tai",
+            "B": "Do cá nhân, tổ chức bên ngoài",
+            "C": "Câu A, B sai",
+            "D": "Câu A, B đúng."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Liên động của hệ thống trạm 220KV, hệ thống điện tự dùng 6.6kV:",
+        "options": {
+            "A": "Đóng DNĐ 644-04 mới cho phép đóng DNĐ 234-03.",
+            "B": "Đóng DNĐ 234-03 mới cho phép đóng DNĐ 644-04.",
+            "C": "Đóng MC 234 mới cho phép đóng MC 644.",
+            "D": "Đóng MC 644 mới cho phép đóng MC 234."
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Tại các dãy tốc độ cộng hưởng, tổ máy ST được điều khiển:",
+        "options": {
+            "A": "Tăng tốc bình thường.",
+            "B": "Giảm tốc để giảm độ rung.",
+            "C": "Tăng tốc nhanh để giảm thời gian vượt qua dãy cộng hưởng.",
+            "D": "Phụ thuộc vào chế độ khởi động ST."
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Thao tác đóng điện máy biến áp mới khác với đóng điện máy biến áp sau sửa chữa ở điểm nào:",
+        "options": {
+            "A": "Nấc máy biến áp đặt phù hợp với điện áp lưới điện, đảm bảo không bị quá điện áp khi đóng điện ",
+            "B": "Lựa chọn cấp điện áp thích hợp đóng điện máy biến áp",
+            "C": "Đóng điện theo phiếu thao tác đã được phê duyệt",
+            "D": "Kiểm tra đúng thứ tự pha và đồng vị pha"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Thao tác nào dưới đây không cần ghi chép vào sổ nhật ký vận hành :",
+        "options": {
+            "A": "Thay đổi nấc phân áp",
+            "B": "Thay đổi công suất tổ máy",
+            "C": "Thay đổi điện áp máy phát",
+            "D": "Mọi thao tác phải được ghi nhận "
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Thao tác nào sau đây để giữ tải ST26 khi đang tăng/giảm tải:",
+        "options": {
+            "A": "OFF Program device, ON ST Unloading;",
+            "B": "OFF Program Device",
+            "C": "OFF Auto Controller",
+            "D": "OFF Auto controller, OFF Program device;"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Thay đổi nấc máy biến áp chính sẽ làm thay đổi:",
+        "options": {
+            "A": "Công suất vô công Q của tổ máy.",
+            "B": "Điện áp đầu cực của tổ máy.",
+            "C": "Điện áp tự dùng của tổ máy.",
+            "D": "Câu A, B, C đúng."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Theo Thông tư số 28/2014/TT-BCT, quy định quy trình xử lý sự cố Hệ thống điện quốc gia: Máy biến áp phải tách khỏi vận hành khi điện áp vượt quá mức nào:",
+        "options": {
+            "A": "20% so với điện áp định mức của đầu phân áp",
+            "B": "20% so với điện áp định mức của máy biến áp",
+            "C": "15% so với điện áp định mức của đầu phân áp",
+            "D": "15% so với điện áp định mức của máy biến áp"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Theo Thông tư số 28/2014/TT-BCT, quy định quy trình xử lý sự cố Hệ thống điện quốc gia: Máy biến áp bị cắt do sự cố Rơ le so lệch và Rơ le hơi ( hoặc dòng dầu, áp lực dầu) để đưa MBA vào vận hành: ",
+        "options": {
+            "A": "Đã tiến hành thí nghiệm, kiểm tra thử nghiệm các thông số, thí nghiệm các mẫu dầu mẫu khí, khắc phục các nhược điểm bất thường đã phát hiện",
+            "B": "Đơn vị quản lý vận hành có văn bản xác nhận MBA đủ điều kiện vận hành gửi cấp điều độ có quyền điều khiển",
+            "C": "Câu A, B sai.",
+            "D": "Kết hợp câu A và B."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Theo Thông tư số 28/2014/TT-BCT, quy định quy trình xử lý sự cố trong Hệ thống điện quốc gia: Nếu không có quy định riêng, máy biến áp được phép quá tải lâu dài bao nhiêu % của nấc điện áp tương ứng nếu điện áp ở nấc đó không cao hơn điện áp định mức.",
+        "options": {
+            "A": "2,5%",
+            "B": "0.05",
+            "C": "7,5%",
+            "D": "0.1"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Theo Thông tư số 28/2014/TT-BCT, quy định quy trình xử lý sự cố Hệ thống điện quốc gia: Nhân viên vận hành phải lấy mẫu khí trong rơ le để phân tích và kiểm tra tính chất cháy của khí trong trường hợp nào:",
+        "options": {
+            "A": "Khi máy biến áp bị nhảy do sự cố lưới điện",
+            "B": "Khi rơle hơi báo tín hiệu",
+            "C": "Khi máy biến áp bị nhảy do sự cố thanh cái",
+            "D": "Câu A, B, C đúng."
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Theo Thông tư số 28/2014/TT-BCT, quy định quy trình xử lý sự cố Hệ thống điện quốc gia: Trường hợp nào sau đây phải tách máy biến áp ra khỏi vận hành:",
+        "options": {
+            "A": "Chảy dầu",
+            "B": "Nhiệt độ cuộn dây quá mức cảnh báo",
+            "C": "Có tiếng kêu khác thường",
+            "D": "Mẫu dầu không đạt tiêu chuẩn"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Theo Thông tư số 28/2014/TT-BCT, quy định quy trình xử lý sự cố Hệ thống điện quốc gia: Thao tác nào dưới đây không cần ghi chép vào sổ nhật ký vận hành:",
+        "options": {
+            "A": "Thay đổi nấc phân áp",
+            "B": "Thay đổi công suất tổ máy",
+            "C": "Thay đổi điện áp máy phát",
+            "D": "Mọi thao tác phải được ghi nhận"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Chức năng của Rơ le 50/51NT bảo vệ máy biến thế 4T/5T: ",
+        "options": {
+            "A": "Là Ro le quá dòng đặt ở trung tính máy biến áp dùng để bảo vệ khi có chạm đất phía cao áp (230 kV)",
+            "B": "Là Ro le quá dòng đặt ở trung tính máy biến áp dùng để bảo vệ khi có chạm đất phía hạ áp (230 kV).",
+            "C": "Câu A, B đúng.",
+            "D": "Câu A, B sai."
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Theo Thông tư số 40/2014/TT-BCT, quy định quy trình điều độ Hệ thống điện quốc gia: Trường hợp đang có sự cố hoặc đang thực hiện những thao tác phức tạp, chỉ được phép giao nhận ca khi đảm bảo một trong các điều kiện nào:",
+        "options": {
+            "A": "Không được phép giao nhận ca.",
+            "B": "Sau khi nhân viên vận hành nhận ca đã nắm rõ các bước xử lý sự cố hoặc thao tác tiếp theo và đồng ý ký nhận ca",
+            "C": "Sau khi đã báo cáo và được lãnh đạo đơn vị cho phép",
+            "D": "Câu A, B, C sai."
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Theo Thông tư số 25/2016 /TT-BCT, quy định hệ thống điện truyền tải: Khi điện áp lưới điện 220kV có giá trị 206kV, hệ thống điện truyền tải đang vận hành ở chế độ:",
+        "options": {
+            "A": "Chế độ vận hành bình thường",
+            "B": "Chế độ cảnh báo",
+            "C": "Chế độ khẩn cấp",
+            "D": "Chế độ cực kỳ khẩn cấp"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Theo Thông tư số 25/2016 /TT-BCT, quy định hệ thống điện truyền tải: Điện áp tại thanh cái cho phép vận hành trên lưới điện truyền tải ở cấp điện áp 220 Kv khi có sự cố đơn lẻ",
+        "options": {
+            "A": "Từ 209 kV ÷ 242 kV",
+            "B": "Từ 198 kV ÷ 242 kV",
+            "C": "Từ 190 kV ÷ 245 kV",
+            "D": "Từ 195 kV ÷ 245 kV"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Theo Thông tư số 25/2016 /TT-BCT, quy định hệ thống điện truyền tải: Điện áp tại thanh cái cho phép vận hành trên lưới điện truyền tải ở cấp điện áp 220 Kv ở chế độ vận hành bình thường:",
+        "options": {
+            "A": "Từ 209 kV ÷ 242 kV",
+            "B": "Từ 198 kV ÷ 242 kV",
+            "C": "Từ 209 kV ÷ 231 kV",
+            "D": "Từ 205 kV ÷ 235 kV"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Theo Thông tư số 25/2016 /TT-BCT, quy định hệ thống điện truyền tải: Quy định đúng tiêu chuẩn tần số ở chế độ vận hành bình thường của hệ thống điện:",
+        "options": {
+            "A": "Từ 49,8 Hz ÷ 50,2 Hz",
+            "B": "Từ 49,9 Hz ÷ 50,2 Hz",
+            "C": "Từ 49,5 Hz ÷ 50,5 Hz",
+            "D": "Từ 49,8 Hz ÷ 50,1 Hz"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Theo Thông tư số 40/2014/TT-BCT, quy định quy trình điều độ Hệ thống điện quốc gia: Đồng hồ tần số của nhà máy điện phải được kiểm tra, hiệu chỉnh theo đúng quy định để đảm bảo độ chính xác cho phép:",
+        "options": {
+            "A": "≤ 0,01 Hz.",
+            "B": "≤ 0,02 Hz.",
+            "C": "≤ 0,1 Hz.",
+            "D": "Không có quy định cụ thể."
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Theo Thông tư số 40/2014/TT-BCT, quy định quy trình điều độ Hệ thống điện quốc gia: Không cho phép giao ca trong các trường hợp nào sau đây:",
+        "options": {
+            "A": "Nhân viên vận hành nhận ca đến muộn.",
+            "B": "Chưa thông báo đầy đủ tình hình vận hành trong ca cho nhân viên vận hành nhận ca.",
+            "C": "Nhân viên vận hành nhận ca bị mệt.",
+            "D": "Nhân viên vận hành nhận ca đã uống rượu, bia."
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Theo Thông tư số 40/2014/TT-BCT, quy định quy trình điều độ Hệ thống điện quốc gia: Lệnh điều độ bằng lời nói phải được ghi âm tại đơn vị nào:",
+        "options": {
+            "A": "Các cấp điều độ",
+            "B": "Nhà máy điện",
+            "C": "Trạm điện",
+            "D": "Các đơn vị tham gia vận hành hệ thống điện"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Theo Thông tư số 40/2014/TT-BCT, quy định quy trình điều độ Hệ thống điện quốc gia: Nguyên tắc điều chỉnh điện áp :",
+        "options": {
+            "A": " Đảm bảo điện áp trong giới hạn cho phép",
+            "B": "Đảm bảo tối thiểu chi phí vận hành và tổn thất",
+            "C": "Đảm bảo tối ưu các thao tác điều khiển",
+            "D": "Câu A, B, C đúng."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Theo Thông tư số 40/2014/TT-BCT, quy định quy trình điều độ Hệ thống điện quốc gia: Nhân viên vận hành cấp dưới có quyền kiến nghị với nhân viên vận hành cấp trên khi nhận thấy lệnh điều độ chưa hợp lý. Trong trường hợp kiến nghị không được nhân viên vận hành cấp trên chấp nhận thì:",
+        "options": {
+            "A": "Vẫn phải thực hiện đúng lệnh điều độ của nhân viên vận hành cấp trên và phải chịu trách nhiệm về hậu quả.",
+            "B": "Có quyền không thực hiện lệnh điều độ của nhân viên vận hành cấp trên và không phải chịu trách nhiệm về hậu quả.",
+            "C": "Vẫn phải thực hiện đúng lệnh điều độ của nhân viên vận hành cấp trên và không phải chịu trách nhiệm về hậu quả.",
+            "D": "Có quyền không thực hiện lệnh điều độ của nhân viên vận hành cấp trên và phải chịu trách nhiệm về hậu quả."
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Theo Thông tư số 40/2014/TT-BCT, quy định quy trình điều độ Hệ thống điện quốc gia: Nhân viên vận hành tham gia trực tiếp công tác điều độ, vận hành hệ thống điện phải được định kỳ huấn luyện, diễn tập xử lý sự cố, diễn tập khởi động đen và khôi phục hệ thống điện quốc gia ",
+        "options": {
+            "A": "Ít nhất 03 tháng 1 lần",
+            "B": "Ít nhất 12 tháng 1 lần ",
+            "C": "Ít nhất 18 tháng 1 lần",
+            "D": "Ít nhất 06 tháng 1 lần"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Theo Thông tư số 40/2014/TT-BCT, quy định quy trình điều độ Hệ thống điện quốc gia: Nhân viên vận hành thực hiện quyền điều khiển thế nào là đúng quy trình trong trường hợp sự cố hoặc đe dọa sự cố:",
+        "options": {
+            "A": "Thực hiện trước, báo cáo sau cấp điều độ có quyền kiểm tra.",
+            "B": "Báo cáo ngay cho cấp điều độ có quyền kiểm tra trước khi thực hiện.",
+            "C": "Thông báo ngay cho đơn vị có quyền nắm thông tin.",
+            "D": "Câu A, B, C sai."
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Theo Thông tư số 40/2014/TT-BCT, quy định quy trình điều độ Hệ thống điện quốc gia: Nhân viên vận hành thực hiện quyền điều khiển thế nào là không đúng quy trình trong trường hợp sự cố hoặc đe dọa sự cố:",
+        "options": {
+            "A": "Xin phép cấp điều độ có quyền kiểm tra ",
+            "B": "Thực hiện quyền điều khiển để xử lý sự cố hoặc đe dọa sự cố sau khi xin và được  cấp điều độ có quyền kiểm tra cho phép",
+            "C": "Báo cáo cho cấp điều độ có quyền kiểm tra và thông báo cho đơn vị có quyền nắm thông tin,",
+            "D": "Câu A, B, C đúng"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Theo Thông tư số 40/2014/TT-BCT, quy định quy trình điều độ Hệ thống điện quốc gia: Quy định nào đúng khi lệnh của lãnh đạo trực tiếp trái với lệnh điều độ của nhân viên vận hành cấp trên thì:",
+        "options": {
+            "A": " Nhân viên vận hành cấp dưới phải thi hành nếu mệnh lệnh đó là hợp lý.",
+            "B": "Nhân viên vận hành cấp dưới không thi hành.",
+            "C": "Nhân viên vận hành cấp dưới có quyền không thi hành và thông báo lại với nhân viên vận hành cấp trên trừ trường hợp nguy hiểm đến tính mạng con người hoặc an toàn thiết bị.",
+            "D": "Nhân viên vận hành cấp dưới thi hành không bàn cãi, không chậm chễ lệnh của nhân viên vận hành cấp trên."
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Theo Thông tư số 40/2014/TT-BCT, quy định quy trình điều độ Hệ thống điện quốc gia: Quyền điều khiển được hiểu là quyền gì:",
+        "options": {
+            "A": "Thay đổi chế độ vận hành của hệ thống điện hoặc thiết bị điện thuộc quyền điều khiển.",
+            "B": "Thay đổi trạng thái thiết bị đóng cắt",
+            "C": "Tách thiết bị sửa chữa hoặc đưa vào vận hành",
+            "D": "Thay đổi chế độ làm việc của thiết bị (thay đổi công suất phát P/Q, khởi động, ngừng tổ máy, đóng, cắt máy cắt và dao cách ly...)"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Theo Thông tư số 40/2014/TT-BCT, quy định quy trình điều độ Hệ thống điện quốc gia: Thao tác phức tạp được hiểu là thao tác:",
+        "options": {
+            "A": "Thao tác máy cắt và DCL",
+            "B": "Thao tác máy biến áp",
+            "C": "Thao tác thanh cái",
+            "D": "Thao tác có số bước lớn hơn 3 bước"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Theo Thông tư số 40/2014/TT-BCT, quy định quy trình điều độ Hệ thống điện quốc gia: Thực hiện biểu đồ điện áp theo phương án nào",
+        "options": {
+            "A": "Nhân viên vận hành tại nhà máy điện tự điều chỉnh điện áp theo biểu đồ do cấp điều độ có quyền điều khiển giao ",
+            "B": "Nhân viên vận hành tại trạm điện tự điều chỉnh điện áp theo biểu đồ do cấp điều độ có quyền điều khiển giao",
+            "C": "Cấp điều độ có quyền điều khiển lệnh cho nhân viên vận hành cấp dưới điều chỉnh điện áp theo biểu đồ",
+            "D": "Câu A, B đúng."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Theo Thông tư số 40/2014/TT-BCT, quy định quy trình điều độ Hệ thống điện quốc gia: Trường hợp đang có sự cố hoặc đang thực hiện những thao tác phức tạp, chỉ được phép giao nhận ca khi đảm bảo một trong các điều kiện nào",
+        "options": {
+            "A": "Không được phép giao nhận ca.",
+            "B": "Sau khi nhân viên vận hành nhận ca đã nắm rõ các bước xử lý sự cố hoặc thao tác tiếp theo và đồng ý ký nhận ca",
+            "C": "Sau khi đã báo cáo lãnh đạo.",
+            "D": "Câu A, B, C sai."
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Theo Thông tư số 40/2014/TT-BCT, quy định quy trình điều độ Hệ thống điện quốc gia: Trường hợp thiết bị điện được tách dự phòng (không mang điện) trong thời gian bao nhiêu lâu, trước khi đưa vào vận hành, Đơn vị quản lý vận hành thiết bị phải thực hiện thí nghiệm, kiểm tra và xác nhận thiết bị điện đủ tiêu chuẩn vận hành",
+        "options": {
+            "A": " Quá 30 ngày",
+            "B": " Quá 45 ngày",
+            "C": "Quá 90 ngày",
+            "D": "Quá 120 ngày"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Theo Thông tư số 40/2014/TT-BCT, quy định quy trình điều độ Hệ thống điện quốc gia: Trường hợp việc thực hiện lệnh điều độ từ nhân viên vận hành cấp trên có thể gây nguy hại đến con người, thiết bị, nhân viên vận hành cấp dưới ",
+        "options": {
+            "A": "Có quyền chưa thực hiện nhưng phải báo cáo với nhân viên vận hành cấp trên.",
+            "B": "Có quyền từ chối thực hiện.",
+            "C": "Có quyền chưa thực hiện nhưng phải báo cáo với lãnh đạo của nhân viên vận hành cấp trên.",
+            "D": "Thực hiện không bàn cãi và không phải chịu trách nhiệm."
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Theo Thông tư số 44/2014/TT-BCT, quy định quy trình thao tác trong hệ thống điện quốc gia: Điều kiện cần có để thực hiện trong phiếu thao tác thiết bị điện do nhà máy lập phiếu thao tác ghi đúng theo phương án nào?",
+        "options": {
+            "A": "Để trống, không cần ghi",
+            "B": "Ghi rõ những điều kiện bắt buộc phải có mới được thực hiện thao tác",
+            "C": "Ghi những biện pháp an toàn cần phải thực hiện",
+            "D": "Ghi lại điều kiện do Điều độ viên có quyền điều khiển yêu cầu"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Theo Thông tư số 44/2014/TT-BCT, quy định quy trình thao tác trong hệ thống điện quốc gia: Hình thức chuyển phiếu thao tác giữa các đơn vị tham gia thao tác thực hiện không cho phép theo hình thức nào?",
+        "options": {
+            "A": "Chuyển qua fax",
+            "B": "Chuyển qua thư điện tử",
+            "C": "Chuyển trực tiếp",
+            "D": "Chuyển qua tin nhắn"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Theo Thông tư số 44/2014/TT-BCT, quy định quy trình thao tác trong hệ thống điện quốc gia: Quy định nào đúng cho phép nhân viên vận hành không cần lập phiếu thao tác",
+        "options": {
+            "A": "Thao tác đột xuất trong phạm vi 01 (một) trạm điện, một nhà máy điện, trung tâm điều khiển",
+            "B": "Thao tác đột xuất trong phạm vi 01 (một) trạm điện, một nhà máy điện, trung tâm điều khiển hoặc tại các cấp điều độ bằng điều khiển từ xa",
+            "C": "Thao tác có số bước thao tác không quá 03 bước và được thực hiện tại các cấp điều độ, trung tâm điều khiển hoặc thao tác bằng điều khiển từ xa",
+            "D": "Thao tác đơn giản có số bước thao tác không quá 03 bước và được thực hiện bằng điều khiển từ xa"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Theo Thông tư số 44/2014/TT-BCT, quy định quy trình thao tác trong hệ thống điện quốc gia: Quy định nào đúng cho phép nhà máy điện tạm ngừng thao tác",
+        "options": {
+            "A": "Thời gian thao tác kéo dài liên tục quá 04 giờ",
+            "B": "Thao tác phải thực hiện ngoài trời trong điều kiện thời tiết xấu",
+            "C": "Đang thao tác thì xảy ra sự cố hoặc có cảnh báo hiện tượng bất thường",
+            "D": "Câu A, B, C đúng."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Theo Thông tư số 44/2014/TT-BCT, quy định quy trình thao tác trong hệ thống điện quốc gia: Quy định nào đúng khi người thao tác phát hiện có điều không hợp lý trong phiếu thao tác do nhà máy điện lập",
+        "options": {
+            "A": "Đề nghị người ra lệnh giải thích",
+            "B": "Đề nghị người ra lệnh thao tác hoặc người duyệt phiếu giải thích và chỉ được thực hiện thao tác khi đã hiểu rõ các bước thao tác.",
+            "C": "Đề nghị người duyệt phiếu giải thích",
+            "D": "Không thực hiện phiếu thao tác"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Theo Thông tư số 44/2014/TT-BCT, quy định quy trình thao tác trong hệ thống điện quốc gia: Quy định nào đúng trách nhiệm viết và duyệt phiếu thao tác đóng điện nghiệm thu máy biến áp mới được thực hiện tại trạm điện hoặc nhà máy điện?",
+        "options": {
+            "A": "Hội đồng nghiệm thu",
+            "B": "Đơn vị quản lý vận hành",
+            "C": "Cấp điều độ có quyền điều khiển",
+            "D": "Không quy định"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Theo Thông tư số 44/2014/TT-BCT, quy định quy trình thao tác trong hệ thống điện quốc gia: Quy định đúng trình tự tiến hành thao tác",
+        "options": {
+            "A": "Người giám sát đọc lệnh; Người thao tác nhắc lại lệnh;  Người thao tác thực hiện thao tác",
+            "B": "Người giám sát đọc lệnh; Người thao tác nhắc lại lệnh;  Người thao tác thực hiện thao tác; Người giám sát và người thao tác kiểm tra thao tác tốt;",
+            "C": "Người giám sát đọc lệnh; Người thao tác thực hiện thao tác,",
+            "D": "Người thao tác và người giám sát kiểm tra đúng thiết bị cần thao tác; Người giám sát đọc lệnh; Người thao tác trực tiếp nhắc lại lệnh và thực hiện từng bước theo phiếu thao tác,"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Theo Thông tư số 44/2014/TT-BCT, quy định quy trình thao tác trong hệ thống điện quốc gia: Quy định nào không đúng việc cô lập rơ le bảo vệ so lệch thanh cái trước khi thao tác chuyển đổi thanh cái?",
+        "options": {
+            "A": "Điều độ viên cho phép cô lập rơ le bảo vệ so lệch thanh cái",
+            "B": "Nhân viên vận hành trạm điện, nhà máy điện cô lập rơ le bảo vệ so lệch thanh cái theo quy định của đơn vị",
+            "C": "Lãnh đạo đơn vị cho phép cô lập rơ le bảo vệ so lệch thanh cái",
+            "D": "Theo phiếu thao tác mẫu do đơn vị quản lý vận hành lập"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Theo Thông tư số 44/2014/TT-BCT, quy định quy trình thao tác trong hệ thống điện quốc gia: Quy định đánh số thiết bị rơ le bảo vệ và tự động đúng theo phương án nào?",
+        "options": {
+            "A": "Đánh số theo bản vẽ thiết kế",
+            "B": "Đánh số theo quy định của Đơn vị quản lý vận hành",
+            "C": "Đánh số theo quy định của cấp điều độ có quyền điều khiển",
+            "D": "Đánh số phù hợp với sơ đồ nhất thứ"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Theo Thông tư số 44/2014/TT-BCT, quy định quy trình thao tác trong hệ thống điện quốc gia: Thao tác nào dưới đây không cần ghi chép vào sổ nhật ký vận hành?",
+        "options": {
+            "A": "Thay đổi nấc phân áp",
+            "B": "Thay đổi công suất tổ máy",
+            "C": "Thay đổi điện áp máy phát",
+            "D": "Mọi thao tác phải được ghi nhận"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Theo Thông tư số 44/2014/TT-BCT, quy định quy trình thao tác trong hệ thống điện quốc gia: Trong các trường hợp sau, trường hợp nào tạm ngừng thao tác là không đúng?",
+        "options": {
+            "A": "Thời gian thao tác kéo dài liên tục quá 04 giờ đối với người thao tác trực tiếp tại trạm điện hoặc nhà máy điện.",
+            "B": "Khi thao tác vào giờ cao điểm.",
+            "C": "Thao tác phải thực hiện ngoài trời trong điều kiện thời tiết xấu;",
+            "D": "Tạm ngừng thao tác cho tới khi xử lý xong sự cố, hiện tượng bất thường."
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Theo Thông tư số 44/2014/TT-BCT, quy định quy trình thao tác trong hệ thống điện quốc gia: Máy biến áp phải tách khỏi vận hành khi điện áp vượt quá mức nào?",
+        "options": {
+            "A": "20% so với điện áp định mức của đầu phân áp",
+            "B": "20% so với điện áp định mức của máy biến áp",
+            "C": "15% so với điện áp định mức của đầu phân áp",
+            "D": "15% so với điện áp định mức của máy biến áp"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Theo Thông tư số 28/2014/TT-BCT, quy định quy trình xử lý sự cố Hệ thống điện quốc gia: Nếu không có quy định riêng, máy biến áp dầu được phép quá tải ngắn hạn 30% trong bao lâu",
+        "options": {
+            "A": "120 phút",
+            "B": "80 phút",
+            "C": "45 phút",
+            "D": "30 phút"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Theo Quy trình an toàn điện: Điện hạ áp là điện áp có giá trị:",
+        "options": {
+            "A": "< 1000 V",
+            "B": "< 400 V",
+            "C": "< 220 V",
+            "D": "Câu A, B, C sai."
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Theo Quy trình an toàn điện: Điện cao áp là điện áp có giá trị:",
+        "options": {
+            "A": "Điện áp từ 1000V trở lên",
+            "B": "Điện áp trên 1000V",
+            "C": "Điện áp trên 220V",
+            "D": "Điện áp từ 220V trở lên"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Theo Thông tư số 28/2014/TT-BCT, quy định quy trình xử lý sự cố Hệ thống điện quốc gia: Nếu không có quy định riêng, máy biến áp dầu được phép quá tải ngắn hạn 45% trong bao lâu",
+        "options": {
+            "A": "120 phút",
+            "B": "80 phút",
+            "C": "45 phút",
+            "D": "30 phút"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Theo Thông tư số 28/2014/TT-BCT, quy định quy trình xử lý sự cố Hệ thống điện quốc gia: Nếu không có quy định riêng, máy biến áp dầu được phép quá tải ngắn hạn 75% trong bao lâu",
+        "options": {
+            "A": "120 phút",
+            "B": "80 phút",
+            "C": "45 phút",
+            "D": "20 phút"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Theo Thông tư số 28/2014/TT-BCT, quy định quy trình xử lý sự cố Hệ thống điện quốc gia: Phương án nào quy định đúng trách nhiệm ngăn ngừa sự cố lan rộng?",
+        "options": {
+            "A": "Đơn vị quản lý vận hành",
+            "B": "Cấp điều độ có quyền điều khiển",
+            "C": "Nhân viên vận hành",
+            "D": "Câu A, B, C sai."
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Theo Thông tư số 28/2014/TT-BCT, quy định quy trình xử lý sự cố Hệ thống điện quốc gia: Phương án nào quy định đúng nguyên tắc xử lý sự cố?",
+        "options": {
+            "A": "Áp dụng các biện pháp để nhanh chóng loại trừ sự cố",
+            "B": "Nhanh chóng khôi phục việc cung cấp điện cho khách hàng",
+            "C": "Vận hành hệ thống điện với tần số và điện áp khác với chế độ vận hành bình thường",
+            "D": "Câu A, B, C đúng."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Theo Thông tư số 28/2014/TT-BCT, quy định quy trình xử lý sự cố Hệ thống điện quốc gia: Trường hợp nào sau đây phải tách máy biến áp ra khỏi vận hành",
+        "options": {
+            "A": "Chảy dầu",
+            "B": "Nhiệt độ cuộn dây quá mức cảnh báo",
+            "C": "Có tiếng kêu khác thường",
+            "D": "Mẫu dầu không đạt tiêu chuẩn"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Thời gian lưu trữ của các phiếu thao tác thực hiện xong được quy định là bao nhiêu lâu:",
+        "options": {
+            "A": "Ít nhất 03 tháng",
+            "B": "Ít nhất 06 tháng",
+            "C": "Ít nhất 01 năm",
+            "D": "Ít nhất 05 năm"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Thời gian trở trục tối thiểu trước khi khởi động đối với GTV94.2:",
+        "options": {
+            "A": "24 giờ",
+            "B": "06 giờ",
+            "C": "04 giờ",
+            "D": "02 giờ"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Thời gian trở trục tối thiểu trước khi khởi động tổ máy ST26",
+        "options": {
+            "A": "Phụ thuộc vào thời gian tổ máy ST ngừng.",
+            "B": "Phụ thuộc vào thời gian trục ngừng.",
+            "C": "Phụ thuộc vào nhiệt độ rotor.",
+            "D": "Câu A, B, C sai."
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Tổ máy GT24/GT25 sẽ bảo vệ Trip máy khi:",
+        "options": {
+            "A": "2oo3 điểm đo áp suất nhớt bôi trơn (MBV21CP011/021 và MBV25CP021)< Min tác động.",
+            "B": "1oo3 điểm đo áp suất nhớt bôi trơn (MBV21CP011/021 và MBV25CP021)< Min tác động.",
+            "C": "1oo2 điểm đo áp suất nhớt bôi trơn (MBV21CP011/021 )< Min tác động.",
+            "D": "Câu A, B, C sai."
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Tổ máy ST26 được xem là khởi động ấm 2 (Warm Start 2) khi:",
+        "options": {
+            "A": "Nhiệt độ trung bình của rotor trong khoảng 310 độ C đến 410 độ C.",
+            "B": "Nhiệt độ trung bình của rotor trong khoảng 320 độ C đến 420 độ C.",
+            "C": "Nhiệt độ trung bình của rotor trong khoảng 320 độ C đến 410 độ C.",
+            "D": "Nhiệt độ trung bình của rotor trong khoảng 310 độ C đến 420 độ C."
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Tốc độ định mức của máy phát điện Diesel khẩn:",
+        "options": {
+            "A": "1500 vòng/phút ",
+            "B": "2000 vòng/phút ",
+            "C": "2500 vòng/phút ",
+            "D": "3000 vòng/phút "
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Theo Thông tư số 44/2014/TT-BCT, quy định quy trình thao tác trong hệ thống điện quốc gia: Quy định trình tự thao tác dao cách ly hai phía máy cắt trong trường hợp hai phía đều có điện áp",
+        "options": {
+            "A": "Khi thao tác mở dao cách ly: Mở dao cách ly phía nếu có sự cố xảy ra ảnh hưởng nhiều đến chế độ vận hành của hệ thống điện trước, mở dao cách ly kia sau; Khi thao tác đóng dao cách ly: Đóng dao cách ly phía nếu có sự cố xảy ra ít ảnh hưởng đến chế độ vận hành của hệ thống điện trước, đóng dao cách ly kia sau.",
+            "B": "Khi thao tác mở dao cách ly: Mở dao cách ly phía nếu có sự cố xảy ra ảnh hưởng nhiều đến chế độ vận hành của hệ thống điện trước, mở dao cách ly kia sau; Khi thao tác đóng dao cách ly: Đóng dao cách ly phía nếu có sự cố xảy ra ảnh hưởng nhiều đến chế độ vận hành của hệ thống điện trước, đóng dao cách ly kia sau.",
+            "C": "Khi thao tác mở dao cách ly: Mở dao cách ly phía nếu có sự cố xảy ra ít ảnh hưởng đến chế độ vận hành của hệ thống điện trước, mở dao cách ly kia sau; Khi thao tác đóng dao cách ly: Đóng dao cách ly phía nếu có sự cố xảy ra ảnh hưởng nhiều đến chế độ vận hành của hệ thống điện trước, đóng dao cách ly kia sau",
+            "D": "Khi thao tác mở dao cách ly: Mở dao cách ly phía đường dây trước, mở dao cách ly phía thanh cái sau; Khi thao tác đóng dao cách ly: Đóng dao cách ly phía thanh cái trước, đóng dao cách ly phía đường dây sau"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Theo Thông tư số 44/2014/TT-BCT, quy định quy trình thao tác trong hệ thống điện quốc gia: Quy định trình tự thao tác dao cách ly hai phía máy cắt trong trường hợp một phía có điện áp, một phía không có điện áp",
+        "options": {
+            "A": "Khi thao tác mở dao cách ly: Mở dao cách ly phía có điện áp trước, mở dao cách ly phía không có điện áp sau; Khi thao tác đóng dao cách ly: Đóng dao cách ly phía không có điện áp trước, đóng dao cách ly phía có điện áp sau",
+            "B": "Khi thao tác mở dao cách ly: Mở dao cách ly phía không có điện áp trước, mở dao cách ly phía có điện áp sau; Khi thao tác đóng dao cách ly: Đóng dao cách ly phía có điện áp trước, đóng dao cách ly phía không có điện áp sau",
+            "C": "Khi thao tác mở dao cách ly: Mở dao cách ly phía có điện áp trước, mở dao cách ly phía không có điện áp sau; Khi thao tác đóng dao cách ly: Đóng dao cách ly phía có điện áp trước, đóng dao cách ly phía không có điện áp sau",
+            "D": "Khi thao tác mở dao cách ly: Mở dao cách ly phía đường dây trước, mở dao cách ly phía thanh cái sau; Khi thao tác đóng dao cách ly: Đóng dao cách ly phía thanh cái trước, đóng dao cách ly phía đường dây sau"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Trong trường hợp khẩn cấp, cho phép ngừng hệ thống trở trục ST26 (với 2 điều kiện là van phá chân không đã mở và hệ thống hơi chèn đã OFF):",
+        "options": {
+            "A": "≤ 05 phút sau 1 ngày trở trục liên tục.",
+            "B": "≤ 10 phút sau 1 ngày trở trục liên tục.",
+            "C": "≤ 15 phút sau 1 ngày trở trục liên tục",
+            "D": "≤ 20 phút sau 1 ngày trở trục liên tục."
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Trước khi đóng dao tiếp địa đường dây phải thực hiện:",
+        "options": {
+            "A": "Kiểm tra đường dây không còn điện áp, trạng thái tại chỗ máy cắt, dao cách ly hai đầu đường dây đã mở tốt 3 pha",
+            "B": "Kiểm tra điện áp đường dây qua TU đường dây gần bằng 0 kV ",
+            "C": "Kiểm tra trạng thái tại chỗ máy cắt, dao cách ly đường dây đã mở tốt 3 pha ",
+            "D": "Câu B, C đúng."
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Cứ vào thông tin nào để đánh giá đang sự cố mất điện toàn nhà máy:",
+        "options": {
+            "A": "Mất ánh sáng nguồn tự dùng xoay chiều",
+            "B": "Thông số điện áp thanh cái các cấp điện áp tại trạm bằng không",
+            "C": "Dùng bút thử điện thấy mất điện toàn bộ thiết bị điện nhất thứ trong trạm",
+            "D": "Tất cả thông số điện áp đo lường phía nhất thứ trạm bằng không  "
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Theo Quy trình an toàn điện, trường hợp cần có Người cảnh giới:",
+        "options": {
+            "A": "Công việc thực hiện có thể gây nguy hiểm cho cộng đồng.",
+            "B": "Biển báo, rào chắn, căng dây hoặc các biện pháp khác chưa đủ đảm bảo an toàn cho cộng đồng.",
+            "C": "Người CHTT không đủ khả năng kiêm nhiệm vai trò Người CG.",
+            "D": "Câu A, B, C đúng"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Trường hợp phải đưa MBA ra khỏi vận hành:",
+        "options": {
+            "A": "Có tiếng kêu mạnh không đều.",
+            "B": "Sự phát nóng của máy tăng lên bất thường.",
+            "C": "Mực dầu hạ thấp dưới mức quy định.",
+            "D": "Màu sắc của dầu thay đổi đột ngột."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Trường hợp gây đóng van điều áp trạm gas Siemens :",
+        "options": {
+            "A": "Áp suất gas tăng quá cao đến giá trị setting ",
+            "B": "Áp suất gas giảm thấp hơn giá trị setting",
+            "C": "Mất nguồn cấp cho solenoid valve",
+            "D": "Câu A, B, C đúng."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Van nhớt trở trục sẽ tự động đóng (OFF) khi:",
+        "options": {
+            "A": "Khi chương trình đang ở bước 02 hoặc bước 58 hoặc khi tốc độ turbine > 150 rpm và chương trình đang ở bước 09 hoặc bước 12 hoặc bước 14.",
+            "B": "Khi mực bồn nhớt <Min2 hoặc khi tín hiệu Fire Protection Trip Active.",
+            "C": "Khi tốc độ turbine > 150 rpm và chương trình đang ở bước 51 và tín hiệu Fire Protection Not Active.",
+            "D": "Câu A, B, C sai."
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Van nhớt trở trục sẽ tự động mở (ON) khi:",
+        "options": {
+            "A": "Khi tốc độ turbine < 140 rpm và chương trình đang ở bước 09 hoặc bước 12 hoặc bước 14.",
+            "B": "Khi tốc độ turbine < 140 rpm.",
+            "C": "Khi tốc độ turbine < 140 rpm và chương trình đang ở bước 51 và tín hiệu Fire Protection Trip Not Active.",
+            "D": "Câu A, B, C sai."
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Van nước phun nước tầng cánh cuối tuabin LP động đóng khi:",
+        "options": {
+            "A": "Khi Tốc độ Tuabin <50% tốc độ định mức.",
+            "B": "Công suất Tuabin > 10% tải định mức.",
+            "C": "Câu A, B sai.",
+            "D": "Câu A, B đúng."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Theo Thông tư số 28/2014/TT-BCT, quy định quy trình xử lý sự cố Hệ thống điện quốc gia, xử lý quá áp máy biến áp chuyển được nấc điều áp dưới tải theo phương án nào:",
+        "options": {
+            "A": "Ra lệnh chuyển nấc phân áp để máy biến áp không bị quá áp, sau đó báo ngay cho cấp điều độ có quyền điều khiển",
+            "B": "Báo cáo Cấp điều độ có quyền điều khiển cho phép chuyển nấc phân áp để máy biến áp không bị quá áp",
+            "C": "Tách máy biến áp ra khỏi lưới",
+            "D": "Báo cáo Cấp điều độ có quyền điều khiển điều chỉnh giảm điện áp để máy biến áp không bị quá áp"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Theo Thông tư số 28/2014/TT-BCT, quy định quy trình xử lý sự cố Hệ thống điện quốc gia, xử lý theo phương án nào nếu thanh cái bị mất điện:",
+        "options": {
+            "A": "Kiểm tra thanh cái không có điện áp, cắt các máy cắt nối thanh cái nếu đang đóng",
+            "B": "Cắt toàn bộ máy cắt nối thanh cái bị mất điện",
+            "C": "Cắt toàn bộ dao cách ly nối thanh cái bị mất điện",
+            "D": "Báo cáo lãnh đạo trực tiếp"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Theo Thông tư số 28/2014/TT-BCT, quy định quy trình xử lý sự cố Hệ thống điện quốc gia, xử lý theo trình tự nào khi mất điện toàn bộ nhà máy điện:",
+        "options": {
+            "A": "Báo cáo cấp điều độ có quyền điều khiển mất điện toàn nhà máy; Cắt toàn bộ máy cắt nếu đang đóng; Khởi động nguồn Diesel, chuyển đổi tự dùng cần thiết ",
+            "B": "Báo cáo cấp điều độ có quyền điều khiển mất điện toàn nhà máy; Khởi động nguồn Diesel, chuyển đổi tự dùng cần thiết; Cắt toàn bộ máy cắt nếu đang đóng ",
+            "C": "Cắt toàn bộ máy cắt nếu đang đóng; Báo cáo cấp điều độ có quyền điều khiển mất điện toàn nhà máy; Khởi động nguồn Diesel, chuyển đổi tự dùng cần thiết",
+            "D": "Kiểm tra xác định mất điện toàn nhà máy; Khởi động nguồn Diesel, chuyển đổi tự dùng cần thiết; Cắt toàn bộ máy cắt nếu đang đóng; Báo cáo về sự cố cho cấp điều độ có quyền điều khiển"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Cường độ cắt định mức cho máy cắt 234/235/236:",
+        "options": {
+            "A": "40/40/40 kA",
+            "B": "70/70/70 kA        ",
+            "C": "80/80/80 kA",
+            "D": "100/100/100 kA"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Các nhóm vòi đốt GT24/GT25 bao gồm:",
+        "options": {
+            "A": "Pilot ",
+            "B": "DiFF/Premix",
+            "C": "Câu A, B đúng.",
+            "D": "Câu A, B sai."
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Bơm dầu chính dự phòng của GT24/GT25 sẽ tự động chạy (ON) khi.",
+        "options": {
+            "A": "Áp suất sau bơm dầu chính đang vận hành <Min (30bar).",
+            "B": "Áp suất sau bơm dầu chính đang vận hành <Min (35bar).",
+            "C": "Áp suất sau bơm dầu chính đang vận hành <Min (40bar).",
+            "D": "Áp suất sau bơm dầu chính đang vận hành <Min (45bar)."
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Áp suất dầu thủy lực để chạy các bơm hệ thống DD lò 24/25:",
+        "options": {
+            "A": "< 220 bar bơm nạp chạy",
+            "B": "< 200 bar bơm nhớt dự phòng chạy",
+            "C": "< 180 bar cả 3 bơm nhớt chạy",
+            "D": "Câu A, B, C đúng."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Bộ chuyển nấc thay đổi số vòng dây MBA tự dùng 14T/15T",
+        "options": {
+            "A": "OFF LOAD TAP CHANGER",
+            "B": "Phải cắt điện mới chuyển nấc ",
+            "C": "Câu A, B đúng.",
+            "D": "Câu A, B sai."
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Nhiệt độ cho phép của nước thải lò thải ra môi trường:",
+        "options": {
+            "A": "< 40 độ C",
+            "B": "< 45 độ C",
+            "C": "< 50 độ C",
+            "D": "< 55 độ C"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Theo Quy trình an toàn điện, quy định Làm việc trên cao là làm việc ở độ cao từ bao nhiêu trở lên:",
+        "options": {
+            "A": "2 m",
+            "B": "3 m",
+            "C": "4 m",
+            "D": "1 m"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Theo quy trình an toàn thủy cơ nhiệt hóa, Nhận diện mối nguy khi làm việc trên cao:",
+        "options": {
+            "A": "Ngã cao.",
+            "B": "Rơi thiết bị, dụng cụ, vật liệu xuống.",
+            "C": "Trượt đổ thang, sập giàn giáo.",
+            "D": "Câu A, B, C đúng."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Theo Quy trình an toàn điện, quy định Phương tiện bảo vệ cá nhân (PTBVCN) :",
+        "options": {
+            "A": "Là những dụng cụ, phương tiện cần thiết mà người lao động phải được trang bị để sử dụng trong khi làm việc hoặc thực hiện nhiệm vụ để bảo vệ cơ thể khỏi tác động của các yếu tố nguy hiểm, độc hại phát sinh trong quá trình lao động, khi các giải pháp công nghệ, thiết bị, kỹ thuật an toàn, vệ sinh lao động tại nơi làm việc chưa thể loại trừ hết.",
+            "B": "Là những dụng cụ, phương tiện cần thiết mà người lao động phải được trang bị để sử dụng trong khi làm việc.",
+            "C": "Là những dụng cụ, phương tiện cần thiết mà người lao động phải được trang bị.",
+            "D": "Là phương tiện cần thiết mà người sử dụng lao động phải được trang bị để sử dụng trong khi làm việc hoặc thực hiện nhiệm vụ để bảo vệ cơ thể."
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Tại các nhà máy điện, “Người cấp phiếu công tác” được quy định như sau:",
+        "options": {
+            "A": "Có bậc 5 an toàn điện và được công nhận chức danh “Người cấp phiếu công tác”.",
+            "B": "Do Quản đốc, Phó Quản đốc, Kỹ thuật viên phân xưởng quản lý vận hành thiết bị. Trưởng ca đương nhiệm cấp PCT trong trường hợp người cấp PCT vắng mặt, công việc đột xuất hoặc khi sự cố.",
+            "C": "Câu A, B đúng.",
+            "D": "Câu A, B sai."
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Tiến hành sửa chữa tại chỗ các động cơ điện thực hiện các biện pháp sau:",
+        "options": {
+            "A": "Cắt điện và dùng mọi biện pháp tránh nhầm lẫn, khoá bộ truyền động của máy cắt và dao cách ly, treo biển “cấm đóng điện” tại cầu dao kể trên",
+            "B": "Được phép kiểm tra mạch của động cơ đang quay khi có yêu cầu của trưởng ca vận hành hoặc của tổ thí nghiệm điện",
+            "C": "Kết hợp câu A, B.",
+            "D": "Nếu động cơ có đặt chung điểm trung tính thì phải tách điểm trung tính khỏi hệ thống chung rồi mới được sửa chữa và kết hợp câu A"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Trị số dòng điện một chiều bắt đầu gây nguy hiểm cho người:",
+        "options": {
+            "A": "< 30 mA",
+            "B": "Từ 25 ÷ 35 mA",
+            "C": "Từ 50 ÷ 80 mA",
+            "D": "Từ 35 ÷ 45 mA"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Trị số dòng điện xoay chiều bắt đầu gây nguy hiểm cho người:",
+        "options": {
+            "A": "< 20 mA",
+            "B": "Từ 20 ÷ 25 mA",
+            "C": "Từ 30 ÷ 40 mA",
+            "D": "Từ 50 ÷ 80 mA"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Thứ tự nào là đúng trong quá trình khởi động ST26:",
+        "options": {
+            "A": "Hơi chèn ON, Van Phá Chân không đóng, Bypass Release, Ejector ON",
+            "B": "Hơi chèn ON, Van Phá Chân không đóng, Ejector ON, Bypass Release",
+            "C": "Van Phá Chân không đóng, Hơi chèn ON, Ejector ON, Bypass Release",
+            "D": "Câu A, B sai."
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Bảo vệ trip tuabin khí GT24/25 tác động:",
+        "options": {
+            "A": "Mở máy cắt đầu cực máy phát, Mở MC tự dùng, ngắt kích từ",
+            "B": "Đóng khẩn van dừng cấp nhiên liệu",
+            "C": "Mở máy cắt đầu cực máy phát, ngắt kích từ",
+            "D": "Ngắt kích từ"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Các yêu cầu và cách thức đặt rào chắn tạm thời:",
+        "options": {
+            "A": "Khi rào chắn đặt xong, cấm mọi người tự ý xê dịch hay thu dọn rào, rào có thể làm bằng gỗ, tấm vật liệu cách điện,… đảm bảo khô và chắc chắn, trên rào phải treo biển: “Dừng lại! Có điện nguy hiểm chết người”",
+            "B": "Rào chắn tạm thời phải đặt sao cho khi có nguy hiểm người làm việc có thể thoát ra khỏi vùng nguy hiểm dễ dàng",
+            "C": "Kết hợp câu A, B.",
+            "D": "Rào chắn tạm thời phải được đặt sao cho dễ quan sát."
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Chỉ được phép sử dụng thiết bị nâng khi đảm bảo:",
+        "options": {
+            "A": "Thiết bị có tình trạng kỹ thuật tốt, đã được kiểm tra, thử nghiệm và có chứng nhận kiểm định đang còn thời hạn.",
+            "B": "Không được sử dụng thiết bị nâng và các bộ phận mang tải khi chưa qua kiểm tra, thử nghiệm và chưa được cấp giấy chứng nhận kiểm định an toàn.",
+            "C": "Câu A, B sai.",
+            "D": "Kết hợp câu A, B."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Thao tác đóng khẩn DD lò 24/25 tại tủ điều khiển tại chỗ :",
+        "options": {
+            "A": "Chuyển 2 trong 3 khóa local về blanking plate",
+            "B": "Tác động Solenoid 43, 44: ON",
+            "C": "Mở xả 2 trong 3 van bình tích áp",
+            "D": "Câu A, B, C đúng."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Áp suất đầu hút bơm thấp, không cho phép khởi động bơm tiếp dầu GT24/25:",
+        "options": {
+            "A": "< 0,16 bar",
+            "B": "< 0,26 bar",
+            "C": "< 0,36 bar",
+            "D": "< 0,46 bar"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Áp suất đầu thoát bơm thấp, trip bơm và khởi động bơm tiếp dầu dự phòng GT24/25:",
+        "options": {
+            "A": "< 3,6 bar",
+            "B": "< 4,6 bar",
+            "C": "< 5,6 bar",
+            "D": "< 6,6 bar"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Áp suất tác động chạy Motor bơm chữa cháy:",
+        "options": {
+            "A": "Khi áp suất giảm còn 5 bar",
+            "B": "Khi áp suất giảm còn 6 bar",
+            "C": "Khi áp suất giảm còn 7 bar",
+            "D": "Khi áp suất giảm còn 8 bar"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Thời gian DD lò 24/25 đóng khẩn:",
+        "options": {
+            "A": "60 giây",
+            "B": "30 giây",
+            "C": "20 giây",
+            "D": "25 giây"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Giá trị sai biệt giữa command và feedback của các Control valve hơi chính HP/IP bảo vệ trip tuabin hơi ST26:",
+        "options": {
+            "A": "≥ 5%",
+            "B": "≥ 8%",
+            "C": "≥ 10%",
+            "D": "≥ 12%"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Thay đổi nấc MBT4T/5T là thay đổi:",
+        "options": {
+            "A": "Thay đổi số vòng dây cuộn cao áp ",
+            "B": "Thay đổi số vòng dây cuộn cao áp ",
+            "C": "Thay đổi cả số vòng dây cuộn cao áp và hạ áp",
+            "D": "Câu A, B, C sai."
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Giá trị  báo động/bảo vệ nhiệt độ dầu MBT4T/5T:",
+        "options": {
+            "A": "105 độ C/110 độ C ",
+            "B": "90 độ C/105 độ C",
+            "C": "95 độ C/110 độ C",
+            "D": "100 độ C/110 độ C"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Mỗi lần tăng giảm nấc MBT4T/5T điện áp thay đổi bao nhiêu % điện áp định mức:",
+        "options": {
+            "A": "0.0125",
+            "B": "0.025",
+            "C": "0.0225",
+            "D": "0.0175"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Giá trị tác động Alarm/ Bảo vệ của Rơ le hơi MBT4T/5T:",
+        "options": {
+            "A": "Alarm: 280 cc lượng khí tích tụ/Trip MBT: 100 cm/sec (độ tăng mực dầu)",
+            "B": "Alarm: 220 cc lượng khí tích tụ/Trip MBT: 90 cm/sec (độ tăng mực dầu)",
+            "C": "Câu A, B đúng.",
+            "D": "Câu A, B sai."
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Bảo vệ so lệch máy phát điện GT24/25 87G tác động sẽ đi bật các máy cắt:",
+        "options": {
+            "A": "Máy cắt đầu cực, máy cắt kích từ",
+            "B": "Máy cắt đầu cực,máy cắt cao áp,  máy cắt kích từ",
+            "C": "Máy cắt đầu cực, máy cắt cao áp",
+            "D": "Máy cắt cao áp,  máy cắt kích từ"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Nguyên lý làm việc của AVR GT24/GT25:",
+        "options": {
+            "A": "Hệ thống AVR điều khiển điện áp đầu cực  của máy phát bởi sự điều khiển của dòng kích từ.",
+            "B": "Hệ thống AVR điều khiển điện áp đầu cực  của máy phát bởi sự điều khiển của điện áp kích từ.",
+            "C": "Câu A, B đúng.",
+            "D": "Câu A, B sai."
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Khi Rơ le bảo vệ so lệch MBT 4T/5T (87T) tác động:",
+        "options": {
+            "A": "Mở máy cắt cao áp (234/235, máy cắt đầu cực (504/505) , máy cắt tự dùng ( 644.645)",
+            "B": "Mở máy cắt đầu cực 504/505, máy cắt cao áp 234/235",
+            "C": "Mở máy cắt cao áp 234/235",
+            "D": "Mở máy cắt đầu cực 504/505, máy cắt kích từ, máy cắt cao áp 234/235"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Khi Rơ le hơi  63T >MAX2 và Rơ le dòng dầu MBT4T/5T tác động:",
+        "options": {
+            "A": "Mở máy cắt cao áp (234/235, máy cắt đầu cực (504/505) , máy cắt tự dùng ( 644.645)",
+            "B": "Mở máy cắt đầu cực 504/505, máy cắt cao áp 234/235",
+            "C": "Mở máy cắt cao áp 234/235",
+            "D": "Mở máy cắt đầu cực 504/505, máy cắt kích từ, máy cắt cao áp 234/235"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Khi Rơ le bảo vệ mất kích từ GT24/GT25 tác động:",
+        "options": {
+            "A": "Mở máy cắt đầu cực 504/505, máy cắt kích từ",
+            "B": "Mở máy cắt đầu cực 504/505, máy cắt cao áp 234/235",
+            "C": "Câu A, B đúng.",
+            "D": "Câu A, B sai."
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Khi Rơ le bảo vệ công suất ngược GT24/GT25 tác động :",
+        "options": {
+            "A": "Mở máy cắt đầu cực 504/505, máy cắt kích từ",
+            "B": "Mở máy cắt đầu cực 504/505, máy cắt cao áp 234/235",
+            "C": "Câu A, B đúng.",
+            "D": "Câu A, B sai."
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Màn hình hệ thống SFC/SEE tủ CJT01 tổ máy GT25 tại chỗ hiển thị trạng thái, thông số:",
+        "options": {
+            "A": "Excitation Main Page: Hiển thị các thông số chính và biểu đồ Power Chart của máy phát",
+            "B": "Excitation Controllers: Hiển thị trạng thái và cho phép điều khiển các chế độ như : PSS, Điều chỉnh công suất phản kháng, Hệ số công suất (Phải chuyển công tắc sang vị trí Local)",
+            "C": "Câu A, B sai.",
+            "D": "Câu A, B đúng."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Màn hình SFC/SEE tủ CJT01 tổ máy GT25 tại chỗ hiển thị trạng thái, thông số sau:",
+        "options": {
+            "A": "FC Main page: Hiển thị các thông số liên quan của bộ SFC và cho phép điều khiển các chế độ chạy của SFC (ở chế độ Local",
+            "B": "CB/Isolators: Trạng thái các máy cắt và dao cách ly trong tủ SFC/SEE",
+            "C": "Câu A, B sai.",
+            "D": "Câu A, B đúng."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Màn hình SFC/SEE tủ CJT01 tổ máy GT25 tại chỗ hiển thị trạng thái, thông số:",
+        "options": {
+            "A": "Events: Ghi lại các dữ kiện liên quan của hệ thống",
+            "B": "Alarm: Thông báo các báo động",
+            "C": "Statistics: Thông tin thời gian OH của hệ thống và số lần đóng mử của các MC trong tủ",
+            "D": "Câu A, B, C đúng."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Khi hệ thống chữa cháy bằng khí CO2 GT24/25 kích hoạt, tổ máy sẽ tác động:",
+        "options": {
+            "A": "Trip ",
+            "B": "Sa thải tải",
+            "C": "Câu A, B đúng.",
+            "D": "Câu A, B sai."
+        },
+        "answer": "A"
+    },
+    {
+        "question": "HT SFC GT25: Khi nhấn nút  Trip (EMERGENCY STOP)  tại tủ CJT02 Local GT25 màn hình giám sát tại chỗ hiển thị: ",
+        "options": {
+            "A": "Góc trái màn hình chính (Menu Page) hiển thị trạng thái SFC TRIP (màu đỏ), phía dưới hiển thị SFC ALARM màu vàng",
+            "B": "Góc phải màn hình chính (Menu Page) hiển thị trạng thái EXC is Blocked (màu cam), và bên cạnh hiển thị SFC is Blocked(màu cam)",
+            "C": "Thanh trạng thái hệ thống phía dưới màn hình: Excitation báo OFF, SFC báo OFF/ nút Reset chuyển sang màu đỏ",
+            "D": "Câu A, B, C đúng."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Các trường hợp dẫn đến GT24/GT25 bảo vệ cháy ( Fire Protection Trip ):",
+        "options": {
+            "A": "Do các kênh đầu dò khói, lửa buồng đốt tác động.",
+            "B": "Do lỗi hở mạch rơle tủ CO2:",
+            "C": "Do chạm chập gây bật cầu chì F4, F6 tại tủ CJP41",
+            "D": "Câu A, B, C đúng."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Trình tự Reset khi GT25 tác động Trip do bảo vệ cháy ( Fire Protection Trip ) mà nguyên nhân đã được khắc phục:",
+        "options": {
+            "A": "Reset tại tủ điều khiển CO2 : CCL hoặc CCR đang tác động",
+            "B": "Vào trang màn hình Lube/ Lift Oil   Reset FIRE PROTECTION TRIP ",
+            "C": "Kiểm tra hệ thống nhớt bôi trơn, nâng trục và trở trục tự động đưa vào vận hành.",
+            "D": "Thực hiện thứ tự câu A, B, C."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Khi tín hiệu bảo vệ cháy buồng đốt GT24/GT25 tác động  hoạt,  thời gian trì hoãn Trip GT và kích hoạt phun CO2:",
+        "options": {
+            "A": "5s",
+            "B": "30s Trip GT, 10s tiếp theo sẽ phun CO2",
+            "C": "45s",
+            "D": "Không trì hoãn"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Để hệ thống CO2 kích hoạt khi tổ máy GT24/25 đang vận hành nhiên liệu Dầu:",
+        "options": {
+            "A": "Phải kèm theo điều kiện là tín hiệu Trip van Dầu  đóng. ",
+            "B": "Không cần điều kiện Trip van Dầu  đóng",
+            "C": "Câu A, B đúng.",
+            "D": "Câu A, B sai."
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Để hệ thống CO2 kích hoạt khi tổ máy GT24/25 đang vận hành nhiên liệu gas:",
+        "options": {
+            "A": "Phải kèm theo điều kiện là tín hiệu Trip van Gas đóng. ",
+            "B": "Không cần điều kiện Trip van Gas đóng",
+            "C": "Câu A, B đúng.",
+            "D": "Câu A, B sai."
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Trong thời gian trì hoãn, nếu kiểm nhận GT24/25  không có cháy thật sự thì lập tức ngừng kích hoạt phun CO2 tại tủ ĐK CO2 bằng cách:",
+        "options": {
+            "A": "Ấn giữ nút HOLD (phía dưới bảng điều khiển CO2).",
+            "B": "Nhấn System Access, nhấn 3, 4, 5, 6.",
+            "C": "Nhấn Abort/Nhấn System Access 2 lần để đưa màn hình về trạng thái bình thường.",
+            "D": "Thực hiện thứ tự câu A, B, C"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Hệ thống kích từ chính của tổ máy GT24/GT25:",
+        "options": {
+            "A": "Kiểu kích từ: kích từ tĩnh có chổi than, vành trượt",
+            "B": "Kích từ quay đồng trục với MPĐ",
+            "C": "Câu A, B đúng.",
+            "D": "Câu A, B sai."
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Công suất định mức của máy biến áp kích từ GT24/25 (24/25MKC01):",
+        "options": {
+            "A": "1000 kVA",
+            "B": "2000 kVA",
+            "C": "3000 kVA",
+            "D": "4000 kVA"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Điện áp định mức của máy biến áp kích từ GT24/25 (24/25MKC01):",
+        "options": {
+            "A": "10,5 kV/ 660V",
+            "B": "6.6 kV/ 660V",
+            "C": "230 kV/ 660V",
+            "D": "6,6 kV/ 380V"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Công suất định mức của Hệ thống SFC (Static Frequency Converter) GT24/GT25:",
+        "options": {
+            "A": "2.9 MW",
+            "B": "1.9 MW",
+            "C": "4.9 MW",
+            "D": "5.9 MW"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Khi hệ thống SFC/SEE có các báo động, lỗi hoặc Trip, tại màn hình tủ điều khiển:",
+        "options": {
+            "A": "Với các trường hợp cảnh báo Alarm màn hình HMI sẽ hiển thị chi tiết tên lỗi và có màu vàng ",
+            "B": "Với các trường hợp dẫn đến Trip hệ thống Màn hình HMI sẽ hiển thị chi tiết tên lỗi Trip và có màu đỏ",
+            "C": "Câu A, B đúng.",
+            "D": "Câu A, B sai"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Cách thao tác kiểm tra bất thường trên tủ báo cháy phụ Hệ thống chữa cháy (N002/003/004):",
+        "options": {
+            "A": "Nhấn phím số 6 để kiểm tra lỗi trên hệ thống báo cháy",
+            "B": "Để tắt tiếng báo động trên tủ: Nhấn phím số 7",
+            "C": "Để reset lỗi nhấn phím số 8.",
+            "D": "Câu A, B, C đúng."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Điều kiện để Hệ thống ABTS cho phép chuyển đổi tự dùng GT24/GT25 phải reset tất cả các báo động và chỉ còn các đèn sau đây sáng:",
+        "options": {
+            "A": "Đèn RUN: Báo bộ xử lý đang chạy và không có lỗi",
+            "B": "ATBS Reday ( Led 1)/ Synchron OK( Led 2) ",
+            "C": "Ready For Chans ( Led) 10",
+            "D": "Kết hợp câu A, B, C."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Điều kiện chuyển đổi GT24/25 từ nhiên liệu Dầu sang Gas /Mix:",
+        "options": {
+            "A": "Độ mở IGV > 8% ",
+            "B": "Các van cầu gas ở 2 buồng đốt không báo lỗi và đang đóng",
+            "C": "SGC của FG không báo lỗi và tín hiệu Release C/O ON",
+            "D": "Kết hợp câu A, B, C."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Điều kiện chuyển đổi GT24/25 từ nhiên liệu Gas sang Dầu /Mix:",
+        "options": {
+            "A": "Công suất trong khoảng 35MW < P < base load",
+            "B": "GT đang vận hành ở chế độ Diffussion/ Các van cầu không báo lỗi",
+            "C": "SGC FO đang ở step 55 và không báo lỗi/Tín hiệu Release C/O : đang active",
+            "D": "Kết hợp câu A, B, C."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Thao tác Hòa lưới GT24 khi máy chạy Island: ",
+        "options": {
+            "A": "Mở cửa sổ SELECTTION UNITCB, Chọn 3 (Auto) và Excute",
+            "B": "Vào AUTO PARAL DIVICE chọ 2 ( Start) và Excute",
+            "C": "Vào SGC quyét Chương trình Hold-> Start/ Chọn AUTO PARAL DEVICE về 1 và Excute sau khi hòa lưới thành công",
+            "D": "Thực hiện trình tự câu A, B, C"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Nguyên lý hòa đồng bộ tổ máy GT24/25 với lưới bằng tín hiệu:",
+        "options": {
+            "A": "So sánh tần số/điện áp/góc lệch pha",
+            "B": "So sánh tần số/điện áp",
+            "C": "So sánh dòng điện/điện áp/góc lệch pha",
+            "D": "Điện áp/góc lệch pha"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Sự liên động của hệ thống trạm 220KV, hệ thống điện tự dùng 6.6kV:",
+        "options": {
+            "A": "Đóng DNĐ 644-04 mới cho phép đóng DNĐ 234-03.",
+            "B": "Đóng DNĐ 234-03 mới cho phép đóng DNĐ 644-04.",
+            "C": "Đóng MC 234 mới cho phép đóng MC 644.",
+            "D": "Đóng MC 644 mới cho phép đóng MC 234."
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Thao tác nào dưới đây không cần ghi chép vào sổ nhật ký vận hành:",
+        "options": {
+            "A": "Thay đổi nấc phân áp",
+            "B": "Thay đổi công suất tổ máy",
+            "C": "Thay đổi điện áp máy phát",
+            "D": "Mọi thao tác phải được ghi nhận "
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Thao tác trên màn hình để đóng/mở Dao cách ly tại máy cắt đầu cực:",
+        "options": {
+            "A": "Kiểm nhận dây dẫn điện trên DCL ở 2 phía đã cắt điện",
+            "B": "Chuyển chìa khóa máy cắt đầu cực về local",
+            "C": "Enable DCL để sẳn sàng đóng hoặc mở, sau đó ấn excute",
+            "D": "Kết hợp câu A, B, C."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "6 đầu dò tốc độ GT24/25 được bố trí bảo vệ như thế nào:",
+        "options": {
+            "A": "Chia làm 2 kênh bảo vệ",
+            "B": "3 đầu dò cho 1 kênh nguyên tắc 2 trong 3",
+            "C": "1 trong 2 kênh tác động sẽ trip tổ máy",
+            "D": "Câu A, B, C đúng."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Chế độ GT24/25 chạy Island: ",
+        "options": {
+            "A": "Tổ máy chạy phát công suất nhưng không kết lưới, tự cấp điện tự dùng/ MC 504/505 đóng; MC 234/235 Mở",
+            "B": "GT24/25:  n=3000rpm; MC 504/505 mở; 234/235 đóng.",
+            "C": "GT24/25:  n=3000rpm; MC 504/505 đóng; 234/235 mở;  MC kích từ mở",
+            "D": "Câu A, B, C sai."
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Chỉ tiêu nào để biết nên phải rửa máy nén gió:",
+        "options": {
+            "A": "Tỉ số giữa công suất thực GT so với công suất thiết kế với cùng điều kiện môi trường < 0.95",
+            "B": "Suất hao nhiên liệu cao",
+            "C": "Lược nhà lọc gió dơ",
+            "D": "Phụ thuộc thời gian EOH"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Khi khởi động tổ máy GT24/25 (từ flame ON và tốc độ turbine > 900 rpm):",
+        "options": {
+            "A": "EOH tăng thêm 10",
+            "B": "EOH tăng thêm 20",
+            "C": "EOH tăng thêm 25",
+            "D": "EOH tăng thêm 30"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Tổ máy GT24/25  tăng/giảm tải nhanh hơn 0,4 MW/s, liên tục trong 30s: ",
+        "options": {
+            "A": "EOH tăng thêm 10",
+            "B": "EOH tăng thêm 20",
+            "C": "EOH tăng thêm 25",
+            "D": "EOH tăng thêm 30"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Giờ OH GT24/25 bắt đầu đếm khi thỏa điều kiện sau:",
+        "options": {
+            "A": "SOV Fuel Gas ESV mở hoặc SOV Fuel Oil ESV mở] và tốc độ turbine >900 rpm.",
+            "B": "SOV Fuel Gas ESV mở hoặc SOV Fuel Oil ESV mở].",
+            "C": "SOV Fuel Gas ESV mở hoặc SOV Fuel Oil ESV mở] và Flame ON",
+            "D": "SOV Fuel Gas ESV mở hoặc SOV Fuel Oil ESV mở] và khi hòa lưới"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Bộ đếm thời gian OH/EOH của GT24/25 có chức năng :",
+        "options": {
+            "A": "Đánh giá thời gian khả dụng của thiết bị quay, thiết bị chịu nhiệt",
+            "B": "Căn cứ vào giá trị EOH để tiến hành thanh tra: tiểu tu, trung tu, đại tu các thiết bị quay, thiết bị chịu nhiệt",
+            "C": "Câu A, B đúng.",
+            "D": "Câu A, B sai."
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Giá trị tốc độ ở dải cộng hưởng GT24/25 nằm trong khoảng tốc độ:",
+        "options": {
+            "A": "Cộng hưởng lần 1: 1200 ÷ 1400 rpm",
+            "B": "Cộng hưởng lần 2: 1700 ÷ 1800 rpm",
+            "C": "Câu A, B đúng.",
+            "D": "Câu A, B sai."
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Ở chế độ vận hành Dầu, GT24/25 tác động bảo vệ Trip khi Hệ thống dầu có áp suất:",
+        "options": {
+            "A": "Trước ESV < 20 bar",
+            "B": "Sau ESV < 16 bar",
+            "C": "Áp suất dầu rò  ≥ 1.2 bar",
+            "D": "Câu A, B, C đúng."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Nhiệm vụ của van Load Rejection GT24/25:",
+        "options": {
+            "A": "Mở để duy trì ngọn lửa trong thời điểm tức thời ngắt tải",
+            "B": "Mở khi khởi động mồi lửa ",
+            "C": "Mở khi tổ máy ngắt tải đột ngột để chuyển sang chế độ noload hoặc Island",
+            "D": "Câu A, C đúng"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Nhiệm vụ van cầu Pilot Gas:",
+        "options": {
+            "A": "Mở khi khởi động mồi lửa ",
+            "B": "Mở để duy trì ngọn lửa ở chế độ premix",
+            "C": "Mở khi tổ máy vận hành dầu",
+            "D": "Mở để duy trì ngọn lửa khi sự cố"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Tín hiệu áp suất điền đầy trong hệ thống dầu MBN51CP001:",
+        "options": {
+            "A": "Đo sai biệt áp suất giữa đường dầu về và áp suất sau máy nén gió",
+            "B": "Mục đích là giám sát quá trình điền đầy dầu trong hệ thống",
+            "C": "Báo động thấp < 2 bar, khởi động dầu không thành công",
+            "D": "Câu A, B, C đúng."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Hệ thống khí mồi (propan-C3H8) GT24/25:",
+        "options": {
+            "A": "4 chai khí hóa lỏng",
+            "B": "2 chai hóa lỏng, 2 chai trống để chứa khí thông qua bộ sấy ",
+            "C": "Câu A, B đúng.",
+            "D": "Câu A, B sai."
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Trong tiến trình khởi động GT24/25, tổng thời gian từ lúc Diverter Damper mở\n purge Lò đến khi đóng hoàn toàn là bao lâu",
+        "options": {
+            "A": "8 phút",
+            "B": "9 phút",
+            "C": "10 phút",
+            "D": "11 phút"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Van điều nhiệt trong hệ thống nhớt bôi trơn tổ máy GT24/GT25:",
+        "options": {
+            "A": "Giữ  nhiệt độ nhớt bôi trơn đến gối trục từ 50 ÷ 55 độ C ",
+            "B": "Bên trong van phần điều khiển làm bằng vật liệu lưỡng kim",
+            "C": "Bên trong van hoàn toàn là cơ khí",
+            "D": "Câu A, B, C đúng."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Giá trị cài đặt bảo vê của Rơ le tần số thấp ST26:",
+        "options": {
+            "A": "81.1 (48,5 Hz)/ 81.2 (47.4 Hz)/ 81.3 (45 Hz)",
+            "B": "81.1 (49,5 Hz)/ 81.2 (49.0 Hz)/ 81.3 (46.5 Hz)",
+            "C": "81.1 (47.5 Hz)/ 81.2 (47 Hz)/ 81.3 (47.5 Hz)",
+            "D": "81.1 (49,75 Hz)/ 81.2 (46.5 Hz)/ 81.3 (46.0 Hz)"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Giá trị cài đặt bảo vê của Rơ le tần số cao GT24/25:",
+        "options": {
+            "A": "81 O Stage 1: 51.5 HZ/81 O Stage 2: 52.0 HZ",
+            "B": "81 O Stage 1: 52.0 HZ/81 O Stage 2: 52.5 HZ",
+            "C": "Câu A, B đúng.",
+            "D": "Câu A, B sai."
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Giá trị cài đặt bảo vê của Rơ le tần số cao ST26:",
+        "options": {
+            "A": "81 O Stage 1: 51.5 Hz - 40 sec /81 O Stage 2: 52 Hz - 10sec",
+            "B": "81 O Stage 1: 52.0 HZ/81 O Stage 2: 52.5 HZ",
+            "C": "Câu A, B đúng.",
+            "D": "Câu A, B sai."
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Cách kiểm tra xì Clo:",
+        "options": {
+            "A": "Dùng que đầu quấn bông gòn chấm vào dung dịch ammô-nhắc (~ 5% NH4OH) quơ gần chổ nghi ngờ xì Clo (thường là các van, mặt bích, khớp nối ), nếu xuất hiện khói trắng là có xì Clo.",
+            "B": "Dùng que đầu quấn bông gòn chấm vào dung dịch ammô-nhắc (~ 5% NH4OH) quơ gần chổ nghi ngờ xì Clo (thường là các van, mặt bích, khớp nối ), nếu xuất hiện khói màu vàng nhạt là có xì Clo. ­­­",
+            "C": "Câu A, B đúng.",
+            "D": "Câu A, B sai."
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Cách xử lý sơ cứu  khi có người bị nhiễm Clo:",
+        "options": {
+            "A": "Đưa nạn nhân đến nơi thóang mát, không khí trong lành.",
+            "B": "Trong trường hợp nhẹ, uống nước có hàm lượng cồn nhẹ, sữa, cà phê với bơ, đường phèn, si-rô, ngửi hơi cồn, đưa đến nơi thoáng mát có lợi cho việc hồi phục sức khỏe",
+            "C": "Trong trường hợp người đó có tiếp xúc với dung dịch Clo, đặt ngay dưới vòi hoa sen và rửa phần tiếp xúc với dung dịch Clo bằng nước sạch ít nhất 15 phút. Không được sử dụng bất kỳ hoá chất hoặc thuốc bôi nào ngoại trừ có ý kiến của y, bác sĩ.\t",
+            "D": "Câu A, B, C đúng."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Chế độ vận hành Hệ thống chữa cháy  bọt (Foam):",
+        "options": {
+            "A": "Bằng tay tại tủ điều khiển tại chỗ ",
+            "B": "Mở van tắt van điện từ của van Deluge",
+            "C": "Tự động",
+            "D": "Câu A, B đúng."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Clo lỏng xì ra môi trường sẽ hoá hơi và tăng thế tích. Do đó khi xử lý xì phải:",
+        "options": {
+            "A": "Khi xử lý xì, phải xoay chổ xì lên trên để tránh xì Clo lỏng.",
+            "B": "Khi xử lý xì, phải xoay chổ xì xuống dưới để tránh xì Clo lỏng.",
+            "C": "Câu A, B đúng.",
+            "D": "Câu A, B sai."
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Công suất động cơ Bơm Diesel chữa cháy:",
+        "options": {
+            "A": "107 kW",
+            "B": "207 kW",
+            "C": "307 kW",
+            "D": "407 kW"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Công suất động cơ Motor pump chữa cháy:",
+        "options": {
+            "A": "360 kW",
+            "B": "261 kW",
+            "C": "170 kW",
+            "D": "380 kW"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Công suất tối đa tổng Hệ thống sản xuất nước khử khoáng 18 m³ đạt bao nhiêu: ",
+        "options": {
+            "A": "18 m³/h",
+            "B": "18 m³/ngày",
+            "C": "36 m³/h",
+            "D": "36 m³/ngày"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Để nạp N2 vào đường ống gas, áp suất bên trong ống bằng:",
+        "options": {
+            "A": "P  ≥ 1 KG/cm²",
+            "B": "P  ≤  0,1 KG/cm²",
+            "C": "P  ≈  0,5KG /cm² ",
+            "D": " P  ≥  0,5KG /cm²"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Hệ thống PCCC trang bị trong Nhà máy điện Phú Mỹ 2.1MR bao gồm:",
+        "options": {
+            "A": "Hệ thống chữa cháy bằng nước",
+            "B": "Hệ thống chữa cháy bằng bọt Foam",
+            "C": "Hệ thống chữa cháy bằng khí CO2 và bột ABC",
+            "D": "Câu A, B, C đúng."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Tốc độ định mức động cơ diesel bơm chữa cháy:",
+        "options": {
+            "A": "2700 v/ph",
+            "B": "1760 v/ph",
+            "C": "2800 v/ph",
+            "D": "2900 v/ph"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Các trường hợp tác động đóng van điều áp gas Siemens:",
+        "options": {
+            "A": "Áp suất gas tăng quá cao so với giá trị setting (setting: 21 bar)",
+            "B": "Áp suất gas giảm thấp hơn giá trị setting",
+            "C": "Mất nguồn cấp cho solenoid valve",
+            "D": "Câu A, B, C đúng."
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Thao tác đổi nấc bằng tay quay tại chỗ MBT6T:",
+        "options": {
+            "A": "Mỗi nấc điều chỉnh điện áp quay tay  25 vòng",
+            "B": "Mỗi nấc điều chỉnh điện áp quay tay  35 vòng",
+            "C": "Mỗi nấc điều chỉnh điện áp quay tay  45 vòng",
+            "D": "Mỗi nấc điều chỉnh điện áp quay tay  01 vòng"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Tổng lượng nước thải ra môi trường của Hệ thống xử lý nước 18 m³ là bao nhiêu:",
+        "options": {
+            "A": "44 m³/h",
+            "B": "44 m³/ngày",
+            "C": "88 m³/h",
+            "D": "88 m³/ngày"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Acid HCl 32% là:",
+        "options": {
+            "A": "Chất rắn màu trắng",
+            "B": "Chất lỏng không màu",
+            "C": "Chất lỏng màu vàng nhạt, bốc hơi mạnh, có mùi sốc",
+            "D": "Chất lỏng không màu bốc hơi mạnh, có mùi sốc "
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Khi bị acid đặc bắn cần phải:",
+        "options": {
+            "A": "Nhanh chóng và bình tĩnh dùng vải khô hay bông chùi sạch acid rồi dùng nước rửa chổ bị thương.",
+            "B": "Khi bị bắn vào mắt thì phải nhanh chóng dùng nước rửa rồi dùng dung dịch NaHCO3 0.5 % rửa, đồng thời đem ngay tới bệnh viện cấp cứu.",
+            "C": "Khi bị bắn lên người, nhanh chóng dùng nước dội ngay lên vết thương, dùng dung dịch NaHCO3 2% rửa. Sau khi rửa xong lấy vadolin bôi lên vết thương, dùng băng bó lại. Nếu nghiêm trọng phải đưa ngay đến bệnh viện.",
+            "D": "Kết hợp câu A và B."
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Dung tích bồn nước thô cung cấp cho hệ thống chữa cháy:",
+        "options": {
+            "A": "1000 m³ ",
+            "B": "2000 m³ ",
+            "C": "3000 m³ ",
+            "D": "4000 m³"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Giá trị cài đặt Nhiệt độ cao tác động chạy hệ thống quạt làm mát MBA 6T:",
+        "options": {
+            "A": "55 độ C",
+            "B": "65 độ C",
+            "C": "75 độ C",
+            "D": "80 độ C"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Công suất định mức của máy phát điện Diesel khẩn:",
+        "options": {
+            "A": "650 KW",
+            "B": "700 KW",
+            "C": "500 KW",
+            "D": "751 KW"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Theo Thông tư số 44/2014/TT-BCT, quy định quy trình thao tác trong hệ thống điện quốc gia: Quy định đúng trình tự thao tác chuyển điểm đấu từ thanh cái này sang thanh cái khác",
+        "options": {
+            "A": "Không quy định",
+            "B": "Lựa chọn bước thao tác theo thứ tự ngăn lộ theo sơ đồ đánh số thiết bị",
+            "C": " Lựa chọn bước thao tác hợp lý để tránh quá tải máy cắt liên lạc",
+            "D": "Lựa chọn bước thao tác theo phiếu thao tác mẫu"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Theo Thông tư số 44/2014/TT-BCT, quy định quy trình thao tác trong hệ thống điện quốc gia: Phương án nào cho phép đóng máy cắt không kiểm tra điều kiện hòa đồng bộ hoặc khép vòng",
+        "options": {
+            "A": "Khi một phía máy cắt có điện",
+            "B": "Khi hai phía máy cắt có điện",
+            "C": "Khi đóng theo lệnh điều độ",
+            "D": "Khi không có mạch hòa"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Theo Quy trình điều tra sự cố số 2383/QĐ-Genco3: Sự cố cấp 3 đối với Nhà máy điện được quy định là:",
+        "options": {
+            "A": "Sự cố không huy động được lò, tổ máy phát điện có thời gian khắc phục đến 07 ngày đối với NMĐ nhiệt điện, đến 03 ngày đối với NMĐ loại hình khác",
+            "B": "Hệ thống thiết bị phụ trợ vận hành không bình thường dẫn đến phải giảm công suất phát của tổ máy phát điện trên 20% so với công suất khả dụng",
+            "C": "Tổ máy phát điện đang ở trạng thái dự phòng mà không huy động được ngay, thời gian khắc phục đến 8 giờ mới hoà đồng bộ vào HTĐ quốc gia so với thời gian dự kiến hòa lưới, trừ trường hợp quy định tại Điểm a Khoản 2 Điều 4 Quy trình này",
+            "D": "Câu A, B, C đúng"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "Theo Quy trình điều tra sự cố số 2383/QĐ-Genco3: Sự cố cấp 1 đối với Nhà máy điện được quy định là:",
+        "options": {
+            "A": "1, Sự cố cháy dẫn đến ngừng tổ máy phát điện; 2. Sự cố liên quan đến tai nạn lao động chết người hoặc tai nạn lao động nặng; 3. Sự cố không huy động được lò, tổ máy phát điện có thời gian khắc phục trên 30 ngày đối với Nhà máy nhiệt điện, trên 07 ngày đối với NMĐ loại hình khác.",
+            "B": "1, Sự cố cháy dẫn đến ngừng tổ máy phát điện; 2. Sự cố liên quan đến tai nạn lao động chết người hoặc tai nạn lao động nặng; 3. Sự cố không huy động được lò, tổ máy phát điện có thời gian khắc phục trên 14 ngày đối với Nhà máy nhiệt điện, trên 07 ngày đối với NMĐ loại hình khác.",
+            "C": "1, Sự cố cháy dẫn đến ngừng tổ máy phát điện; 2. Sự cố liên quan đến tai nạn lao động chết người hoặc tai nạn lao động nặng; 3. Sự cố không huy động được lò, tổ máy phát điện có thời gian khắc phục trên 15 ngày đối với Nhà máy nhiệt điện, trên 07 ngày đối với NMĐ loại hình khác.",
+            "D": "1, Sự cố cháy dẫn đến ngừng tổ máy phát điện; 2. Sự cố liên quan đến tai nạn lao động chết người hoặc tai nạn lao động nặng; 3. Sự cố không huy động được lò, tổ máy phát điện có thời gian khắc phục trên 20 ngày đối với Nhà máy nhiệt điện, trên 07 ngày đối với NMĐ loại hình khác."
+        },
+        "answer": "B"
+    }
+]
