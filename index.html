@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trắc nghiệm</title>
+    <script>
+        async function loadQuiz() {
+            const response = await fetch('questions.json');
+            const questions = await response.json();
+            let quizContainer = document.getElementById('quiz');
+            
+            questions.forEach((q, index) => {
+                let questionHTML = `<div class='question'>
+                    <p><strong>Câu ${index + 1}:</strong> ${q.question}</p>
+                    <ul>
+                        <li><input type='radio' name='q${index}' value='A'> A: ${q.options.A}</li>
+                        <li><input type='radio' name='q${index}' value='B'> B: ${q.options.B}</li>
+                        <li><input type='radio' name='q${index}' value='C'> C: ${q.options.C}</li>
+                        <li><input type='radio' name='q${index}' value='D'> D: ${q.options.D}</li>
+                    </ul>
+                </div>`;
+                quizContainer.innerHTML += questionHTML;
+            });
+        }
+        
+        function submitQuiz() {
+            let score = 0;
+            document.querySelectorAll('.question').forEach((q, index) => {
+                let selected = document.querySelector(`input[name='q${index}']:checked`);
+                if (selected && selected.value === questions[index].answer) {
+                    score++;
+                }
+            });
+            alert(`Bạn đã đúng ${score}/${questions.length} câu!`);
+        }
+    </script>
+</head>
+<body onload="loadQuiz()">
+    <h1>Bài trắc nghiệm</h1>
+    <div id="quiz"></div>
+    <button onclick="submitQuiz()">Nộp bài</button>
+</body>
+</html>
